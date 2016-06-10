@@ -1,0 +1,115 @@
+{
+"temp":
+[
+{"id":"version","title":"下載新版","value":"28","link":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/c28.apk"},
+{"id":"version","title":"下載新版","value":"29","link":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/c29.apk"}
+],
+"news2":
+[
+{"id":"event_meetup","title":"最新活動：跨文化聚會","value":"20160517","link":"https://www.facebook.com/groups/396802377136588/"},
+{"id":"event_public_welfare","title":"公益：流浪生活體驗營","value":"20160517","link":"https://www.facebook.com/homelesstaiwan/photos/gm.883888445070019/1078439842214804/?type=3&theater"},
+{"id":"event_special","title":"特色品牌故事：荒野","value":"20160517","link":"https://twreporter.atavist.com/hsu-jen-shiu"},
+{"id":"brand_story","title":"特色品牌故事：品學堂","value":"20160517","link":"http://tedxtaipei.com/people/maurice-huang/"}
+],
+"banners":
+[
+{"id":"@2015121571","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/2015051571_readlife.png","link":"https://youtu.be/LZp47RIVwm0"},
+{"id":"@2015121572","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/Readlife01.ico","link":"https://youtu.be/LZp47RIVwm0"},
+{"id":"2015121573","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/ReadlifeHollow.ico","icongroup":"8","link":"https://youtu.be/LZp47RIVwm0"},
+{"id":"2015121574","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/ReadlifeHollow.ico","icongroup":"8","link":"https://youtu.be/LZp47RIVwm0"},
+{"id":"2015121575","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/ReadlifeHollow.ico","icongroup":"8","link":"https://youtu.be/LZp47RIVwm0"},
+{"id":"@2015051572","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/2015051572_nike.png","link":"https://youtu.be/ihkTw7ncTpY"},
+{"id":"@2015051573","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/2015051573_electrolux.png","link":"https://youtu.be/Wdo_DLET3Tk"},
+{"id":"@2015120801","online":"20151208","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/T01.png","link":"https://youtu.be/2ufYEQ1byLE"},
+{"id":"@2015120802","online":"20151208","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/T02.jpg","link":"https://youtu.be/EQgLrgamsW8"},
+{"id":"@2015120803","online":"20151208","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/T03.jpg","link":"https://youtu.be/PhmOcj4WXRM"},
+{"id":"@2015121701","online":"20151217","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/kpopn-logo-square.png","link":"https://youtu.be/P3maKD1Z1SE"},
+{"id":"2016010401","online":"20150515","offline":"20991231","icon":"https://dl.dropboxusercontent.com/u/33698955/ReadLifeQuotes/earth.png","icongroup":"9","link":"https://youtu.be/LZp47RIVwm0"}
+],
+"quotes":
+[
+{"date":"20160516","data":[
+{"id":"2016051601","quote":"Mom taught me how to shave.\n\n是媽媽教我怎麼刮鬍子的。","author":"英國六字微小說","from":"http://www.sixwordstories.net/","bg":"0"},
+{"id":"2016051602","quote":"[Tip]\n邀請您隨時到\n『最新消息/意見回饋』，\n給予最寶貴的指教。\n我們會仔細聆聽、盡力改進。","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016051603","quote":"媽，\n\n你說國中生不能談戀愛，\n\n為什麼爸是妳小學同學？","author":"彭以欣","from":"Myfone行動創作獎","bg":"14"},
+{"id":"2016051604","quote":"我現在的這一分鐘，是經過了過去無數億萬分鐘才出現的，\n\n\n世上再沒有比這一分鐘和現在更好的了。","author":"惠特曼 Walt Whitman\n美國詩人、散文家、新聞工作者及人文主義者","from":"1819-1892","bg":"5"},
+{"id":"2016051605","quote":"拋棄時間的人，\n\n\n時間也會拋棄他。","author":"莎士比亞\nWilliam Shakespeare\n英國文豪","from":"1564-1616","bg":"1"},
+{"id":"2016051606","quote":"掉進河流裡不見得會淹死，\n\n不爬出來，才會淹死。","author":"","from":"","bg":"13"},
+{"id":"2016051611","quote":"[Tip]\n在桌面長按《閱讀句樂簿》小工具\n\n可以調整版面大小！","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016051612","quote":"叛逆期又怎樣？\n\n\n老娘現在更年期！","author":"潘信宏","from":"Myfone行動創作獎","bg":"7"},
+{"id":"2016051613","quote":"擁有信心，\n才會有智慧產生。\n\n\n沒有信心，\n所有的事情都覺得困難。","author":"","from":"","bg":"9"},
+{"id":"2016051614","quote":"時間是個常數，但對勤奮者來說，是個變數。\n\n\n用“分”來計算時間的人，比用“時”來計算時間的人，時間多\n了五十九倍。","author":"雷巴柯夫\n蘇聯現代作家","from":"1911-1998","bg":"10"},
+{"id":"2016051615","quote":"時間是最公平合理的，\n\n它從不多給誰一份。\n\n勤勞者能叫時間留給串串的果實，\n\n懶惰者時間留予他們一頭白髮，兩手空空。","author":"高爾基\nАлексей Максимович Пешков\n俄國作家","from":"1868-1936","bg":"15"},
+{"id":"2016051616","quote":"我們想要控制的東西\n\n\n卻控制了我們的生命","author":"","from":"","bg":"6"}
+]},
+{"date":"20160517","data":[
+{"id":"2016051701","quote":"「命」是失敗者的藉口；\n\n\n「運」是成功者的謙詞。","author":"","from":"","bg":"12"},
+{"id":"2016051702","quote":"藝術家既不是啟蒙者，也不是擁有什麼特殊技藝或知識之人，只是以感性方式問『為什麼』的人。","author":"政大駐校藝術家陳界仁\n郭力昕/採訪編輯\n《一個啟迪思想與行動的學習經驗》","from":"https://www.twreporter.org/a/opinion-chen-chieh-jen","bg":"11"},
+{"id":"2016051703","quote":"我會對她說：放慢腳步，你活得夠長的話，生命自會讓你懂得怎樣好好活下去。\n\nI would have said to her, slow down. Life teaches you how to live it if you live long enough.","author":"Tony Bennett","from":"Amy Winehouse 紀錄片","bg":"13"},
+{"id":"2016051704","quote":"通常人們讓你提出批評指正時，其實等待的是表揚。","author":"","from":"","bg":"2"},
+{"id":"2016051705","quote":"生命空缺\n閱讀補足","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016051706","quote":"成長比成功重要。","author":"江益源","from":"臺東音樂家","bg":"1"},
+{"id":"2016051711","quote":"把別人拉下來時，\n\n\n你一定也在下面。","author":"","from":"","bg":"6"},
+{"id":"2016051712","quote":"不要害怕別人怎麼看你，\n\n\n\n因為沒有人在看你。","author":"","from":"","bg":"14"},
+{"id":"2016051713","quote":"送牛奶的人\n\n\n\n比喝牛奶的人身體更棒。","author":"","from":"","bg":"3"},
+{"id":"2016051714","quote":"每當你發現自己和大多數人站在同一邊時，你就該停下來反思一下。","author":"馬克吐溫","from":"","bg":"4"},
+{"id":"2016051715","quote":"「表演有沒有給你帶來成就感的問題？」\n\n吳秀波：「一條河流過去，你把有成就感的那滴水給我找出来。」","author":"吳秀波\n中國演員","from":"","bg":"13"},
+{"id":"2016051716","quote":"[Tip]\n句子播放有三種速度，\n每句10秒、15秒、20秒，\n歡迎到『設定』頁面，\n選擇您喜愛的速度！\n","author":"","from":"閱讀句樂簿","bg":"16"}
+]},
+{"date":"20160518","data":[
+{"id":"2016051801","quote":"[Tip]\n在桌面長按《閱讀句樂簿》小工具\n\n可以調整版面大小！","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016051802","quote":"有油水的地方，\n\n\n通常是最滑的地方。","author":"","from":"","bg":"8"},
+{"id":"2016051803","quote":"醫藥，法律，商業，工程，這些都是宏大的追求，也是維持生命的必需條件。但是詩，美，浪漫，愛，這些才是我們活著的原因。\n\n\nAnd medicine, law, business, engineering, these are noble pursuits and necessary to sustain life. But poetry, beauty，romance, love, these are what we stay alive for.","author":"基頓老師","from":"春風化雨","bg":"17"},
+{"id":"2016051804","quote":"大學變職業訓練所，\n\n誰來重視文明？","author":"李家同","from":"http://udn.com/news/story/7339/1681639","bg":"19"},
+{"id":"2016051805","quote":"吵架需要兩個人，\n\n\n停止吵架只需一個人。","author":"","from":"","bg":"18"},
+{"id":"2016051806","quote":"巨人太高，\n\n侏儒太矮。\n\n\n\n平均值是一種在真實世界毫無意義的謊言。","author":"蕭亦辰","from":"https://www.facebook.com/photo.php?fbid=924533410977535&set=a.383497785081103.1073741825.100002626557877&type=3&theater","bg":"12"},
+{"id":"2016051811","quote":"在『閱讀句樂簿』，您可以\n透過主編，\n輕鬆閱讀每日新句；\n透過平日，\n輕鬆累積自己的有感收藏；\n透過機緣，\n在對的時間分享一些句子給朋友。","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016051812","quote":"騰不出時間來休假，\n\n\n遲早會騰出時間來生病。","author":"","from":"","bg":"0"},
+{"id":"2016051813","quote":"遠處廣播，\n\n從來就不應該叫喚我的名字，\n\n因為，\n\n或許有另一個同樣名字的人，\n\n他也聽見了。","author":"鄭捷","from":"http://www.appledaily.com.tw/realtimenews/article/new/20150525/616103/?utm_source=FB&utm_medium=MWeb_Share&utm_campaign=http%3A%2F%2Fwww.appledaily.com.tw%2Frealtimenews%2Farticle%2Fnew%2F20150525%2F616103%2F","bg":"10"},
+{"id":"2016051814","quote":"道德是永存的，\n\n而財富每天在更換主人。","author":"普盧塔克\nΠλούταρχος\nPlutarchus\n希臘作家","from":"46-125年","bg":"4"},
+{"id":"2016051815","quote":"得意時，朋友認識了你；\n\n\n落難時，你認識了朋友。","author":"","from":"","bg":"5"},
+{"id":"2016051816","quote":"過去的沒辦法改變，\n\n但未來還在你的掌握之中。\n\n\nThe past can not be changed. The future is yet in your power.","author":"休‧懷特 Hugh White\n前美國參議員","from":"","bg":"6"}
+]},
+{"date":"20160519","data":[
+{"id":"2016051901","quote":"愛\n\n才不是什麼一頭栽進去的\n\n「熱情」\n\n而是緩慢地、苦痛地學會的\n\n「生存技能」","author":"艾倫狄波頓\nAlain de Botton\n英國作家","from":"愛的進化論","bg":"15"},
+{"id":"2016051902","quote":"專家能夠看到現象的結構，不被無關細節干擾。外行裝內行的人停在表面的瑣碎細節，\n並將其放大。\n\n很多人以為前者太理論，\n\n後者較實務。\n\n其實前者才是實務菁華，\n\n後者歪理居多。","author":"蔡志浩\n臺灣認知心理學家","from":"https://www.facebook.com/chtsai/posts/10208341643231705","bg":"19"},
+{"id":"2016051903","quote":"何謂憤世嫉俗的人？\n\n就是那些知道所有事物的價格，\n\n卻不知其價值的人。\n\nWhat is a cynic? A man who knows the price of everything and the value of nothing.\n","author":"Oscar Wilde\n王爾德\n愛爾蘭作家","from":"1854-1900","bg":"12"},
+{"id":"2016051904","quote":"最重要的不是知識的數量，\n\n而是知識的質量，\n\n有些人知道很多很多，\n\n但卻不知道最有用的東西。","author":"托爾斯泰\nЛев Николаевич Толстой\n俄國作家","from":"1828-1910","bg":"10"},
+{"id":"2016051905","quote":"若你有幸做對了而爬到高處，\n\n就有責任把電梯回送給還在下面的人！\n\n\nIf you're lucky enough to do well, it's your responsibility to send the elevator back down.","author":"凱文．史貝西KevinSpacey美國演員及導演","from":"","bg":"8"},
+{"id":"2016051906","quote":"閱讀句樂簿\n\n\n遇見更美好的自己","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016051911","quote":"一個人從旅行中得到多少，\n\n不在於他去了多少美麗的地方，\n\n而在於他發現了多少美麗的故事。","author":"艾倫狄波頓\nAlain de Botton\n英國作家","from":"旅行的藝術","bg":"3"},
+{"id":"2016051912","quote":"還沒跑完就先發證書的馬拉松，\n\n\n叫婚姻。","author":"陳思宏","from":"Myfone行動創作獎","bg":"2"},
+{"id":"2016051913","quote":"世界上最寬闊的東西是海洋，\n\n比海洋更寬闊的是天空，\n\n比天空更寬闊的是人的心靈。\n","author":"雨果 Hugo\n法國浪漫主義作家","from":"1802-1885","bg":"13"},
+{"id":"2016051914","quote":"沒有知識的人\n\n總愛議論別人的無知\n\n\n知識豐富的人\n卻時時發現自己的無知","author":"笛卡爾\nRené Descartes\n法國哲學家、數學家、物理學家","from":"1596-1650","bg":"0"},
+{"id":"2016051915","quote":"熱血只是一個引信，\n\n點燃之後，\n\n見真章的叫做『專業』。","author":"","from":"https://www.facebook.com/events/1109714499087321/","bg":"7"},
+{"id":"2016051916","quote":"[Tip]\n在桌面長按《閱讀句樂簿》小工具\n\n可以調整版面大小！","author":"","from":"閱讀句樂簿","bg":"16"}
+]},
+{"date":"20160520","data":[
+{"id":"2016052001","quote":"每天早晚六點\n\n不間斷新句推播\n\n記得點選收藏你喜歡的好句","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016052002","quote":"節儉是用最少錢求生存，極簡是用最少東西過最好的生活，是兩個不同的概念。把生活上不必要的東西全丟光，只剩下100樣東西過生活，只留最需要跟最好的，反而才能享受真正的物質生活。\n\n選擇極簡生活跟財富多寡無關。","author":"Joseph Chu\n業主型投資者","from":"http://funusstockmarket.blogspot.tw/2016/02/blog-post_20.html","bg":"1"},
+{"id":"2016052003","quote":"彼得杜拉克九十幾歲過世前，很多政治界總統總理、全球500強商業總裁等世界領袖每個週末到他家向他諮詢。\n\n而在禮拜五，每一次聚會都是這樣開始的：「星期一的時候，我不想聽到你們說跟我一起的這個週末有多美好，我想聽到你們跟我說你們做了那些改變？」","author":"Peter Drucker\n彼得杜拉克\n管理學之父","from":"1909-2005","bg":"4"},
+{"id":"2016052004","quote":"語言不是教學的唯一媒介，\n\n安靜也能進行教育。\n\n安靜讓我們有機會反省我們所說所聞，在真正的教育中，安靜為學生進行內省提供可靠環境。\n\n是一種最深層次的學習媒介。","author":"Parker Pamer\n美國教育家","from":"教學的勇氣\nThe courage to teach","bg":"13"},
+{"id":"2016052005","quote":"做減法比做加法\n\n讓靈魂成長得更快。\n\nSoul grows more by subtraction than by addition.","author":"Thoreau 梭羅 \n美國哲學家","from":"","bg":"10"},
+{"id":"2016052006","quote":"孩子進校時像個問號，\n\n而畢業時像個句號。\n\nThe kids enter schools as question marks and they leave as periods.","author":"Neil Postman \n美國教育家","from":"1931-2003","bg":"8"},
+{"id":"2016052011","quote":"喜歡的句子，\n\n就點下面的愛心收藏起來！","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016052012","quote":"憤恨情緒的養成與善惡無關\n\n在憤恨情緒的慣性驅使下，順境時你是正義之師，逆境時你是鄭捷。\n\n然而最令人不安的是... ... 處於順境或逆境，往往不是自己可以決定的。","author":"Gyurmed Dorje\n佛學哲學家、西藏文學博士","from":"看清你的敵人","bg":"12"},
+{"id":"2016052013","quote":"人類馴服了馬以後，就沒有人試圖跟馬賽跑，而是騎著牠去詩和遠方。\n\n\n今天，我們幹嘛要跟電腦較勁？\n\n反正也贏不了！","author":"馬東\n企業家、大陸知名電視人、製作人","from":"http://big5.x-weibo.net/n/%E9%A9%AC%E4%B8%9C.html","bg":"14"},
+{"id":"2016052014","quote":"我並不是因為談到文化差異而感到不舒服，我們對文化差異的關注太多了。\n\n不是文化差異不存在，當然有，而且很重要。\n\n但身為人類，文化的共同性比文化差異多太多了。\n\n而我們不應該忽視這些共同性。","author":"達賴喇嘛\n丹增嘉措","from":"","bg":"17"},
+{"id":"2016052015","quote":"越私人的東西，\n\n越是人性共通處。\n\n\nWhat is most personal is most universal.","author":"Carl R. Rogers\n美國心理學家","from":"On Becoming a Person: A Therapist's View of Psychotherapy","bg":"18"},
+{"id":"2016052016","quote":"整個宇宙中有一件，而且只有一件我們知道我們可以從外部觀察中學習到的事，那就是我們自己","author":"C.S. Lewis \nC·S·路易斯\n英國奇幻文學家","from":"1989-1963","bg":"19"}
+]},
+{"date":"20160521","data":[
+{"id":"2016052101","quote":"把喜歡的句子\n\n分享給朋友吧！","author":"","from":"閱讀句樂簿","bg":"16"},
+{"id":"2016052102","quote":"想著致富之後要做什麼，還不如先想想，什麼是你富有之後會做，但現在也能做的事，你會驚奇的發現，至少有90%的事是相同的。\n\n\n比例越高，你離富有越近。\n","author":"Joseph Chu\n業主型投資者","from":"http://funusstockmarket.blogspot.tw/2016/02/blog-post_20.html","bg":"15"},
+{"id":"2016052103","quote":"\n問對問題很重要。\n在管理決策中，最常見的錯誤來源是強調找到正確答案而非正確的問題。","author":"Peter Drucker\n彼得杜拉克\n管理學之父","from":"1909-2005","bg":"6"},
+{"id":"2016052104","quote":"當我的學生不守規矩的時候，我的懲罰是，我讓他們寫100個原因 ，說明為什麼他們棒到要做那樣的事，而且要按照字母順序寫，一直寫到最後一個字母，如果有誰再犯，那就必須要用另一個同義詞，它們不能再用原來的詞。\n\n現在孩子們會對新學生說，我們已經厭倦告訴Marva我有多棒了。","author":"Marva Collins\n美國教育家","from":"https://www.youtube.com/watch?v=uMjotCrGAOY","bg":"11"},
+{"id":"2016052105","quote":"印第安人的方法比較安靜。他們發現和印第安人坐在一起，他們圍坐在篝火旁兩三個小時，一句話也沒說，只是坐在那裡，看著對方，微笑、享受美好時光、內省，就這樣好幾個小時。\n\n而在我們的文化中，沉默讓我們感到不適，我們試圖打破沉默，我們也為缺乏安靜付出代價。","author":"Robert M Pirsig\n美國作家、哲學教授","from":"尋找萊拉\nLila: an Inquiry into Morals","bg":"9"},
+{"id":"2016052106","quote":"為學日益\n\n為道日損\n\nIn pursuit of knowledge, every day something is acquired. In pursuit of wisdoms, everyday something is dropped.","author":"老子\n中國春秋時代思想家","from":"道德經","bg":"1"},
+{"id":"2016052111","quote":"每日新句左下方\n出現地球圖示時\n可以點選連結看更多訊息\n\n有時候是作者介紹、有時候是一段與句子有關的影片、有時候也可能是一段音樂。\n\n點選看看有什麼驚喜喔！","author":"《閱讀句樂簿》","from":"https://www.facebook.com/read.life/","bg":"16"},
+{"id":"2016052112","quote":"幸福其實很簡單\n\n就是在一覺天明的早晨\n\n吃著微焦的烤吐司配鮮奶\n\n笑著窗外兩隻貓的打架\n\n刷一下FB上朋友的趣事\n\n然後想著戶頭裡的三億要怎麼花","author":"每天來點負能量","from":"https://www.facebook.com/NeEnergy/?fref=ts","bg":"2"},
+{"id":"2016052113","quote":"錯的不是科學的重大發現，有資訊永遠比無知強，不管是什麼樣的資訊和什麼樣的無知；\n\n錯在於資訊背後的信念，以為資訊會改變世界的信念。\n\n它不會。","author":"Archibald Macleish\n詩人、哈佛教授","from":"1892-1982","bg":"7"},
+{"id":"2016052114","quote":"我們必須記住：對一個人深刻本性的認識，同時也是對普遍人類本性的認識。\n\nWe must remember that knowledge of one's own deep nature is also simutaneously knowledge of human nature in general.","author":"Abraham Maslow\n馬斯洛\n美國心理學家","from":"1908-1970","bg":"8"},
+{"id":"2016052115","quote":"記得學投資的第一堂課教的是「Time Value of Money」。\n\n\n投資，是將錢的時間價值超展開的過程。","author":"Joseph Chu\n業主型投資者","from":"http://funusstockmarket.blogspot.tw/2016/02/blog-post_20.html","bg":"13"},
+{"id":"2016052116","quote":"John Carter從對哈佛MBA的學生做了長達20年的研究觀察。他發現那些在成功的學生裡格外成功的一小部分人，這群學生無論在收入、社會影響力、生活品質上，都比其他人要跟成功。他發現只有兩件事讓這些人與其他人不同：（1）自信：他們真的相信自己能做好 （2）好奇：他們一直在問問題","author":"John Carter\n管理學學者","from":"","bg":"15"}
+]}
+]}
