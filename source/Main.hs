@@ -102,13 +102,18 @@ instance ToJSON Day where
             , "data" .= qs ]
 
 instance ToJSON Quotation where
-    toJSON q = object
-            [ "id"     .= qId         q
-            , "quote"  .= qContent    q
-            , "author" .= qAuthor     q
-            , "from"   .= qSource     q
-            , "bg"     .= qBackground q
-            , "banner" .= qBanner     q ]
+    toJSON q = object $ commonAttributes <> conditionalAttributes
+        where
+            commonAttributes =
+                [ "id"       .= qId         q
+                , "quote"    .= qContent    q
+                , "author"   .= qAuthor     q
+                , "from"     .= qSource     q
+                , "bg"       .= qBackground q ]
+            conditionalAttributes =
+                if T.null $ qBanner q
+                then []
+                else [ "bannerid" .= ("@" <> qBanner q) ]
 
 -- Command line interface
 
