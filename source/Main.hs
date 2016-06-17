@@ -10,9 +10,11 @@ import Data.Function (on)
 import Data.List (filter, groupBy)
 import Data.Monoid ((<>))
 import Data.Text (Text, append, pack)
+import Data.Text.Encoding (decodeUtf8)
 import GHC.Generics (Generic)
 import Prelude hiding (id)
 
+import qualified Data.ByteString as B
 import qualified Data.ByteString.Lazy.Char8 as BL
 import qualified Data.Csv as Csv
 import qualified Data.Text as T
@@ -42,7 +44,7 @@ makeHalfDay t rs = f <$> zip is ss
             Morning -> "0"
             Evening -> "1"
         f (i, r) = Quotation
-            { qId         = cDate       r <> u <> pack (show i)
+            { qId         = unpackDate (cDate r) <> u <> pack (show i)
             , qContent    = cContent    r
             , qAuthor     = cAuthor     r
             , qSource     = cSource     r
@@ -55,7 +57,11 @@ makeHalfDay t rs = f <$> zip is ss
 type CsvData = [CsvRow]
 
 data Time = Morning | Evening deriving (Eq, Show)
-type Date = Text
+
+data Date = Date Text deriving (Eq, Show)
+
+unpackDate :: Date -> Text
+unpackDate (Date d) = d
 
 data CsvRow = CsvRow
     { cDate       :: Date
@@ -68,6 +74,12 @@ data CsvRow = CsvRow
     } deriving (Generic, Show)
 
 instance Csv.FromRecord CsvRow
+
+instance Csv.FromField Date where
+    parseField x =
+        if B.null x
+            then error "Date missing from one or more records."
+            else pure $ Date $ decodeUtf8 x
 
 instance Csv.FromField Time where
     parseField x
@@ -98,7 +110,7 @@ instance ToJSON Days where
 
 instance ToJSON Day where
     toJSON (Day d qs) = object
-            [ "date" .= d
+            [ "date" .= unpackDate d
             , "data" .= qs ]
 
 instance ToJSON Quotation where
