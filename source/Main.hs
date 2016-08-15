@@ -135,12 +135,12 @@ instance ToJSON Quotation where
             , "bg"       .= qBackground q ]
         <>
             (if T.null $ qBanner q
-               then []
+               then [ {- don't output empty values -} ]
                else [ "bannerid" .= ("@" <> qBanner q) ])
         <>
             (if qHasVoice q
                then [ "voice" .= True ]
-               else [])
+               else [ {- don't output false values -} ])
 
 -- Command line interface
 
