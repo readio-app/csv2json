@@ -1,5 +1,5 @@
 name:           csv2json
-version:        0.1.0.0
+version:        0.2.0.0
 synopsis:       Converts CSV-formatted data to JSON-formatted data suitable for reading by the Readio platform.
 license:        AllRightsReserved
 author:         Jonathan Knowles
