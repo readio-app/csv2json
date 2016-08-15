@@ -134,13 +134,13 @@ instance ToJSON Quotation where
             , "link"     .= qLink       q
             , "bg"       .= qBackground q ]
         <>
-            if T.null $ qBanner q
+            (if T.null $ qBanner q
                then []
-               else [ "bannerid" .= ("@" <> qBanner q) ]
+               else [ "bannerid" .= ("@" <> qBanner q) ])
         <>
-            if qHasVoice q
+            (if qHasVoice q
                then [ "voice" .= True ]
-               else []
+               else [])
 
 -- Command line interface
 
