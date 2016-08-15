@@ -80,8 +80,12 @@ data CsvRow = CsvRow
 instance Csv.FromRecord CsvRow
 
 instance Csv.FromField Bool where
-    parseField "false" = pure False
+    parseField "TRUE"  = pure True
+    parseField "True"  = pure True
     parseField "true"  = pure True
+    parseField "T"     = pure True
+    parseField "t"     = pure True
+    parseField _       = pure False
 
 instance Csv.FromField Date where
     parseField x =
