@@ -81,11 +81,9 @@ instance Csv.FromRecord CsvRow
 
 instance Csv.FromField Bool where
     parseField "TRUE"  = pure True
-    parseField "True"  = pure True
-    parseField "true"  = pure True
-    parseField "T"     = pure True
-    parseField "t"     = pure True
-    parseField _       = pure False
+    parseField "FALSE" = pure False
+    parseField ""      = pure False
+    parseField _       = error "Unexpected value in voice column."
 
 instance Csv.FromField Date where
     parseField x =
