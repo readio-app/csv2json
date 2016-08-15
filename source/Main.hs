@@ -51,6 +51,7 @@ makeHalfDay t rs = f <$> zip is ss
             , qLink       = cLink       r
             , qBackground = cBackground r
             , qBanner     = cBanner     r
+            , qHasVoice   = cHasVoice   r
             }
 
 -- CSV data types
@@ -73,9 +74,14 @@ data CsvRow = CsvRow
     , cLink       :: Text
     , cBackground :: Text
     , cBanner     :: Text
+    , cHasVoice   :: Bool
     } deriving (Generic, Show)
 
 instance Csv.FromRecord CsvRow
+
+instance Csv.FromField Bool where
+    parseField "false" = pure False
+    parseField "true"  = pure True
 
 instance Csv.FromField Date where
     parseField x =
@@ -105,6 +111,7 @@ data Quotation = Quotation
     , qLink       :: Text
     , qBackground :: Text
     , qBanner     :: Text
+    , qHasVoice   :: Bool
     } deriving (Generic, Show)
 
 instance ToJSON Days where
@@ -117,19 +124,22 @@ instance ToJSON Day where
             , "data" .= qs ]
 
 instance ToJSON Quotation where
-    toJSON q = object $ commonAttributes <> conditionalAttributes
-        where
-            commonAttributes =
-                [ "id"       .= qId         q
-                , "quote"    .= qContent    q
-                , "author"   .= qAuthor     q
-                , "from"     .= qSource     q
-                , "link"     .= qLink       q
-                , "bg"       .= qBackground q ]
-            conditionalAttributes =
-                if T.null $ qBanner q
-                then []
-                else [ "bannerid" .= ("@" <> qBanner q) ]
+    toJSON q = object $
+            [ "id"       .= qId         q
+            , "quote"    .= qContent    q
+            , "author"   .= qAuthor     q
+            , "from"     .= qSource     q
+            , "link"     .= qLink       q
+            , "bg"       .= qBackground q
+            , "voice"    .= qHasVoice   q ]
+        <>
+            if T.null $ qBanner q
+               then []
+               else [ "bannerid" .= ("@" <> qBanner q) ]
+        <>
+            if qHasVoice q
+               then [ "voice" .= True ]
+               else []
 
 -- Command line interface
 
