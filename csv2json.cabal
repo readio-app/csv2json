@@ -13,11 +13,11 @@ executable csv2json
     hs-source-dirs:     source
     default-language:   Haskell2010
     build-depends:
-        aeson,
-        aeson-pretty,
-        base,
-        bytestring,
-        cassava == 0.4.5.0,
-        text,
-        vector
+        aeson        >= 0.11.2.1 && < 1.0,
+        aeson-pretty >= 0.7.2    && < 1.0,
+        base         >= 4.8.2.0  && < 5.0,
+        bytestring   >= 0.10.6.0 && < 1.0,
+        cassava      >= 0.4.5.0  && < 0.5,
+        text         >= 1.2.2.1  && < 2.0,
+        vector       >= 0.11.0.0 && < 1.0
 
