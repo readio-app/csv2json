@@ -48,6 +48,7 @@ makeHalfDay t rs = f <$> zip is ss
             , qContent    = cContent    r
             , qAuthor     = cAuthor     r
             , qSource     = cSource     r
+            , qLink       = cLink       r
             , qBackground = cBackground r
             , qBanner     = cBanner     r
             }
@@ -69,6 +70,7 @@ data CsvRow = CsvRow
     , cContent    :: Text
     , cAuthor     :: Text
     , cSource     :: Text
+    , cLink       :: Text
     , cBackground :: Text
     , cBanner     :: Text
     } deriving (Generic, Show)
@@ -100,6 +102,7 @@ data Quotation = Quotation
     , qContent    :: Text
     , qAuthor     :: Text
     , qSource     :: Text
+    , qLink       :: Text
     , qBackground :: Text
     , qBanner     :: Text
     } deriving (Generic, Show)
@@ -121,6 +124,7 @@ instance ToJSON Quotation where
                 , "quote"    .= qContent    q
                 , "author"   .= qAuthor     q
                 , "from"     .= qSource     q
+                , "link"     .= qLink       q
                 , "bg"       .= qBackground q ]
             conditionalAttributes =
                 if T.null $ qBanner q
