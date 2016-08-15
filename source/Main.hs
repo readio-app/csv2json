@@ -132,8 +132,7 @@ instance ToJSON Quotation where
             , "author"   .= qAuthor     q
             , "from"     .= qSource     q
             , "link"     .= qLink       q
-            , "bg"       .= qBackground q
-            , "voice"    .= qHasVoice   q ]
+            , "bg"       .= qBackground q ]
         <>
             if T.null $ qBanner q
                then []
