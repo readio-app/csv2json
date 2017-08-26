@@ -1,47 +1,715 @@
-Date,Time,Content,Author,Source,Background,Banner
-20161201,m,"我其實不太確定我是否存在。我是我有我讀過的作家、所有遇過的人、所有愛過的女人、所有曾經到訪過的城市。
-I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.  ","阿根廷詩人
-Jorge Luis Borges
-",book,0,a
-20161201,m,"那些瘋狂到覺得自己可以改變世界的人，才是真正改變世界的人。
-The people who are crazy enough to think they can change the world are the ones who do. ","賈伯斯
-Steve Jobs",book,1,
-20161201,e,"要記住，大愛與大成就必定也藏著極大的冒險。
-Take into account that great love and great achievements involve great risk.","達賴喇嘛
-The Dalai Lama",book,2,b
-20161201,e,"愛情之樹應該深深紮根在泥土中，而起枝條則要伸展於廣闊的天空。
-Love should be a tree whose roots are deep in the earth, but whose branches extend into heaven. ","伯特蘭·羅素
-Bertrand Russell",book,3,
-20161202,m,"最好的關係是你愛別人的程度，超過你需要別人的程度。
-Remember that the best relationship is one in which your love for each other exceeds your need for each other.","達賴喇嘛
-The Dalai Lama",web,4,c
-20161202,m,"做一個愛者，而非戰者，但永遠要為你所愛而戰。
-Be a lover, not a fighter. But always fight for what you love.    ",Unknown,web,5,
-20161202,e,"人的天性就是如此，他最樂意將愛給予那些似乎最不強求愛的人。
-Human nature is so constructed that it gives affection most readily to those who seem least to demand it. ","伯特蘭·羅素
-Bertrand Russell",web,6,d
-20161202,e,"記得，那些最幸福的人，不是得到最多的人，而是有更多東西能夠給予的人。
-Remember that the happiest people are not those getting more, but those giving more.  ","H. Jackson Brown, Jr.",web,7,
-20161203,m,"就像他們說的，人會死兩次。一次是我們停止呼吸，另一次是最後一個我們認識的人叫出我們的名字。
-They say, people die twice. Once, when the breath leaves our body, and once when the last person they know says their name.   ",Unknown,book,8,e
-20161203,m,"你掌控你自己的命運，不需要任何魔法來幫助你做到這點！問題的解決方法也沒有任何神奇的捷徑。
-You control your destiny ─ you don't need magic to do it.
-And there are no magical shortcuts to solving your problems. ",勇敢傳說,book,9,
-20161203,e,"先挑戰自己的認知。你的認知是你觀望世界的窗；不時擦拭，光線才能穿透。
-Begin challenging your own assumptions. Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. ","亞 倫‧艾達，美國演員
-Alan Alda",book,10,f
-20161203,e,"從哪裡來無所謂，重點是要往哪去。
-It isn't where you came from; it's where you're going that counts.","艾拉‧費茲傑羅，美國爵士女伶
-Ella Fitzgerald",book,11,
-20161204,m,"智慧之道在於懂得視而不見。
-The art of being wise is the art of knowing what to overlook.","威廉‧詹姆斯，美國心理學家
-William James",web,12,g
-20161204,m,"在寸步維艱時還能堅持前進的人就是贏家。
-The man who can drive himself further once the effort gets painful is the man who will win.","羅傑‧班尼斯特，英國長跑運動員
-Roger Bannister",web,13,
-20161204,e,"船待港內固然安全，但船的目的就是要出海探索新天地。
-A ship in port is safe, but that's not what ships are built for. Sail out to sea and do new things.","葛蕾斯‧哈柏，美國電腦科學家
-Grace Hopper",web,14,h
-20161204,e,"人最可怕的時候莫過於他們自以為有理而且對此毫不懷疑。
-Human beings are perhaps never more frightening than when they are convinced beyond doubt that they are right.","勞倫斯‧凡‧德‧普司特，南非探險家兼作家
-Laurens van der Post  ",web,15,
+Date,Time,Content,Author,Source,Link,Background,Banner,voice
+20170807,m,"是這樣的，我們沒人能活著離開人世，所以為什麼不變得更勇敢、更偉大、更包容，並且感激擁有的機會。
+
+Here's the thing – none of us get out of life alive. So be gallant, be great, be gracious, and be grateful for the opportunities that you have.",Jake Bailey，紐西蘭高中生,畢業前夕生命僅剩三周的致詞,http://speakola.com/grad/jake-bailey-christchurch-boys-high-2015,23,2015120801,
+20170807,m,"恐怕在殺死上帝的同時，
+他並未成功摧毀惡魔。","馬克．霍德爾
+Mark Hodder
+英國作家",平行倫敦：遠征月亮山脈,http://www.books.com.tw/products/0010702801,10,2016061502,
+20170807,m,"你不會因為一個人的外表、服裝、或是他們昂貴的跑車而愛上他們。
+
+而是因為他們唱了一首只有你能聽見的歌。
+
+You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.","奧斯卡．王爾德
+Oscar Wilde
+愛爾蘭作家 ",1854-1900,https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E5%8D%A1%C2%B7%E7%8E%8B%E5%B0%94%E5%BE%B7,65,2016053002,
+20170807,e,"因循舊規不等同於道德
+自詡正義不等同於宗教
+
+攻擊前者
+未必是詆毀後者
+
+摘除偽善者的面具
+未必是對耶穌荊冠
+伸出褻瀆之手","夏綠蒂勃朗特
+Charlotte Brontë
+英國作家",1816-1855,https://zh.wikipedia.org/wiki/%E5%A4%8F%E7%B6%A0%E8%92%82%C2%B7%E5%8B%83%E6%9C%97%E7%89%B9,63,2015120801,
+20170807,e,"說謊者所受的懲罰，
+絕不在於沒有人相信他，
+而是他不能相信任何人。","蕭伯納
+George Bernard Shaw
+愛爾蘭劇作家
+1925年諾貝爾文學獎",1856－1950,,8,2016121401,
+20170807,e,"即便成功機會微乎其微，
+
+都勝過於不願嘗試的零。","徐超斌
+南迴醫院發起人",,https://www.flyingv.cc/project/2696,13,2015120802,
+20170808,m,"幽默，
+是對付痛苦最好的武器！","尚路易．傅尼葉  
+Jean-Louis Fournier
+法國作家及電視劇編導",爸爸，我們去哪裡？,,12,,
+20170808,m,"有些譴責是讚美，
+
+有些讚美則是譴責。","法蘭索瓦·德·拉羅希福可
+François VI, 
+duc de La Rochefoucauld
+法國箴言作家
+1613─1680",箴言集,,3,,
+20170808,m,"世界上只有兩種人：
+看地圖的人和看鏡子的人，
+看地圖的人將要遠行，
+而看鏡子的人準備回家。 ",電影 A Touch of Spice,香料帝國,https://www.youtube.com/watch?v=DioZyZQUDTY,10,2016061502,
+20170808,e,"聰明不代表不會犯錯，
+
+而是立即發覺出
+
+如何從中得益。","貝托爾特·布萊希特
+德國戲劇家、詩人
+Bertolt Brecht",1898－1956,,32,2015120801,
+20170808,e,"伸手摘星﹐
+即使徒勞無功﹐
+亦不致一手污泥。","李奧貝納
+Leo Burnett 
+廣告大師",1891-1971,,22,2016061502,
+20170808,e,"如果世界上曾經有那個人出現過，
+
+其他人都會變成將就。",電影,何以笙簫默,,32,2016061502,
+20170809,m,"能在沒有證據的情況下被斷言的，也能在沒有證據的情況下被摒棄。
+
+What can be asserted without evidence can be dismissed without evidence.","克里斯托弗·希欽斯
+Christopher Hitchens
+英國作家、記者、辯論家",,http://www.books.com.tw/products/0010423701,11,2015120801,
+20170809,m,"但是只有「需要」還不足以召喚出力量，得要有「知識」才行。
+
+But need alone is not enough to set power free: there must be knowledge.","娥蘇拉·勒瑰恩
+Ursula K. Le Guin
+美國科幻、奇幻作家","地海巫師
+A Wizard of Earthsea",https://zh.wikipedia.org/wiki/%E5%A8%A5%E8%98%87%E6%8B%89%C2%B7%E5%8B%92%E7%91%B0%E6%81%A9,15,2015120801,
+20170809,m,"以眼還眼，
+
+世人皆盲。
+
+An eye for an eye makes the whole world blind.","甘地 Gandhi
+मोहनदास करमचंद गांधी
+印度民族主義運動
+國大黨領袖",1869-1948,https://youtu.be/StbzTbIaGVc?t=1m53s,6,2016053002,
+20170809,e,"為了拿到高分，
+
+你已經不再學習了。",紀錄片,學習的理由,https://www.youtube.com/watch?v=Gfr3ySguQP8,24,2015120801,
+20170809,e,"我失敗了一次一次又一次，那就是我成功的原因。
+
+I've failed over and over and over again in my life and that is why I succeed.","麥可喬丹
+Micheal Jordan
+前美國NBA職業籃球員",,https://www.youtube.com/watch?v=2F7WS-h78b8,9,2015120802,
+20170809,e,"如果生命給你檸檬，
+你就把它做成檸檬汁，
+然後試著去找
+生命給他伏特加的人，
+開一場派對！
+
+I believe that if life gives you lemons, you should make lemonade... And try to find somebody whose life has given them vodka, and have a party.","羅恩·懷特
+Ron White
+美國單口相聲演員", ,,12,2016061502,
+20170810,m,"看著專家如何執行他們的工作是最棒的學習方法。
+
+The greatest education in the world is watching the masters at work.","麥可傑克森 Michael Jackson
+流行音樂歌手",1958－2009,https://www.youtube.com/watch?v=4Aa9GwWaRv0,9,2015120802,
+20170810,m,"最好和比自己優秀的人在一起。
+
+挑選那些素行比自己良好的人當朋友，會使自己的行為被帶往好的方向。","巴菲特 Warren Buffett
+美國投資家、慈善家",,https://www.youtube.com/watch?v=F4GJEpLWtaQ,4,2016053002,
+20170810,m,"當我還小的時候，狗狗就是我最好的老師。
+
+牠教會我，我們也是動物國度的一部分，而不只我們有性格和交流的智能，絕對不只我們有情緒，例如：快樂、悲傷、恐懼、絕望… 
+
+也不只我們能感受愛、給予愛。","珍古德 Dame Jane Goodall
+英國動物行為學家
+人類學家和動物保育人士",https://www.facebook.com/eric.jo.realizes.his.great.dream/videos/1038272502861963/,,14,2016053003,
+20170810,e,"若我們等待某人或某時機才行動，改變是不會來臨的。
+
+其實我們所一直在等待和尋求的就是我們自己。","歐巴馬
+Barack Obama
+美國總統",,https://www.youtube.com/watch?v=FzEZHiI_pMQ,13,2016100602,
+20170810,e,我相信絕大部分的人，必須在漫漫人生裡，在與相遇的人，以及各種機緣巧合之下，慢慢地，或者跌跌撞撞的，一次又一次不同的選擇，才形塑出屬於自己的獨特人生。,"李偉文
+臺灣生物學作家、牙科醫生
+曾任荒野保護協會理事長",,,19,2016121401,
+20170810,e,"如果你太在意別人的看法，那麽你的生活將變成一件褲子：
+
+別人放什麽屁，
+
+你都得接著。",,,,39,2016061502,
+20170811,m,"獲得勝利並不一定表示自己更進步。
+
+Winning is not always the barometer of getting better.","Tiger Woods 老虎伍茲
+美國高爾夫球手",,,64,2015120802,
+20170811,m,"英雄，指的是一個知曉「自由所伴隨而來的責任」的人。
+
+A hero is someone who understands the responsibility that comes with his freedom.","巴布狄倫 Bob Dylan
+美國搖滾、民謠歌手
+2016 諾貝爾文學家",https://www.youtube.com/watch?v=g1s47L8DrJ0,,5,2016100602,
+20170811,m,"如果台灣最美的風景是人，
+
+那這 60 萬移工在你眼前，
+
+為何你卻視而不見？","張正
+《四方報》前總編輯
+東南亞主題書店主人",2.5%個台灣,http://www.biosmonthly.com/contactd.php?id=7302,10,2016061502,
+20170811,e,"點亮一盞燭光，
+
+便投出一道陰影。
+
+To light a candle is to cast a shaow.","娥蘇拉·勒瑰恩
+Ursula K. Le Guin
+美國奇幻文學作家",地海巫師 A Wizard of Earthsea,https://www.youtube.com/watch?v=gUaoP2S4VO0,22,2015120801,
+20170811,e,"人生如果只停留在想像「現在的我能做什麼」，那麼無論過了多久，都無法超越那當下的自己。
+
+「夢」和「理想」這種東西，原本指的就是現在的自己無法達成的事。如果只是一味地保持安全駕駛，肯定也跨越不了人生的藩籬。","安藤忠雄
+あんどうただお
+日本當代建築師",,http://www.books.com.tw/products/0010680933,25,2016061502,
+20170811,e,"這世上有三樣東西
+是別人搶不走的：
+一是吃進胃裡的食物，
+二是藏在心中的夢想，
+三是讀進大腦的知識。
+
+There are three things in the world that people can not take away from you: the food in your stomach, the dream in your bosom, and the knowledge in your mind.",,猶太格言,,67,2015120801,
+20170812,m,"低質量的社交
+
+不如
+
+高質量的獨處",朱曉莉,,https://read01.com/nD33ye.html,71,2016121401,
+20170812,m,"知道自己要找什麼時，
+網路搜尋很有幫助！
+
+但想要建構自己的看法、
+自己的觀點，
+只能透過廣泛的閱讀。","李偉文
+臺灣生物學作家、牙科醫生
+曾任荒野保護協會理事長",,,10,2016053002,
+20170812,m,"告訴我，
+我會忘記；
+
+教導我，
+我或許會記得；
+
+讓我參與，
+我便能學到。
+
+Tell me and I forget, teach me and I may remember, involve me and I learn.","富蘭克林 Benjamin Franklin
+美國開國元勳
+科學家、企業家",1706-1790,http://www.storm.mg/article/267814,60,2015120801,
+20170812,e,"人生，
+
+不同於下棋，
+
+在將軍之後仍得繼續。
+
+In life, unlike chess, the game continues after checkmate.","以撒‧艾西莫夫 Isaac Asimov
+美國生物學家
+科幻、科普作家",1920－1992,https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB,1,2015120802,
+20170812,e,"藝術是為了洗去我們靈魂中日積月累的塵埃而存在的。
+
+The purpose of art is washing the dust of daily life off our souls.","畢卡索
+Pablo Picasso 
+西班牙藝術家
+立體主義創始人",1881－1973,https://www.youtube.com/watch?v=X59U4mUqWtw,19,2016121401,
+20170812,e,"管理是把事情做對，
+
+領導則是做對事情。
+
+Management is doing things right ; leadership is doing the right things.","彼得．杜拉克 Peter Drucker
+管理學之父",1909－2005,https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B,6,2015120802,
+20170813,m,"小提琴與中提琴的分別是，
+
+中提琴可以燒比較久。
+
+The difference between a violin and a viola is that a viola burns longer. ","維克托·伯厄
+Victor Børge
+丹麥幽默鋼琴家",,https://www.youtube.com/watch?v=QMKIE8vjBQI,88,2016100602,
+20170813,m,"你不會因為一個人的外表、服裝、或是他們昂貴的跑車而愛上他們。
+
+而是因為他們唱了一首只有你能聽見的歌曲。
+
+You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.","奧斯卡．王爾德
+Oscar Wilde
+愛爾蘭作家 ",1854-1900,,85,2016061502,
+20170813,m,"愛存在之處，沒有任何偽裝者能夠長久隱藏它；愛不在之處，也沒有任何假裝可以長久冒充它。
+
+Where love is, no disguise can hide it for long; where it is not, none can simulate it.","法蘭索瓦·德·拉羅希福可
+François VI, 
+duc de La Rochefoucauld
+法國箴言作家
+1613─1680",箴言集,https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E5%BE%B7%C2%B7%E6%8B%89%E7%BD%97%E4%BB%80%E5%AF%8C%E7%A7%91,89,2016053003,
+20170813,e,"我很早就明白，
+
+知道一樣事物
+
+和知道一樣事物的名字
+
+的分別。
+
+I learned very early the difference between knowing the name of something and knowing something.","理查費曼
+Richard Phillips Feynman
+美國理論物理學家
+1965年諾貝爾物理獎得主",1918－1988,https://www.youtube.com/watch?v=0Jm70Omtq48,80,2016053002,
+20170813,e,"我們心中的恐懼
+
+永遠比真正的危險
+
+巨大得多。","塞內卡
+Lucius Annaeus Seneca
+羅馬哲學家",約前4年－65年,,84,2015120802,
+20170813,e,"我喜歡自言自語，
+因為這樣可以節省時間，
+而且不會有人跟我爭論。
+
+I like to do all the talking myself. It saves time, and prevents arguments. ","奧斯卡．王爾德 
+Oscar Wilde
+愛爾蘭作家 ",1854-1900,,86,2016121401,
+20170814,m,"我能抗拒一切，
+除了誘惑。
+
+I can resist everything except temptation.","奧斯卡．王爾德
+Oscar Wilde
+愛爾蘭作家
+1854-1900",溫夫人的扇子,,36,2016121401,
+20170814,m,"我走到書店問店員『自助區』在哪兒？她說：「如果我告訴你，那『自助』就失去了意義了。」
+
+I went to a bookstore and asked the saleswoman, 'Where's the self-help section?' She said if she told me, it would defeat the purpose.","喬治卡林 George Carlin
+美國獨腳喜劇表演者、作家
+五座葛萊美獎得主",,https://www.youtube.com/watch?v=guuTn0RpVtU,63,2016053002,
+20170814,m,"人若無名，
+
+便可專心練劍。",張藝謀電影,英雄,,11,2016053003,
+20170814,e,"千萬不要恨你的敵人，
+
+這會影響你的判斷力。",電影,教父III,,9,2015120801,
+20170814,e,"真理就是具備這樣的力量：
+
+你越是想要攻擊它，
+
+你的攻擊，
+
+就越是充實了和證明了它。","Galileo Galilei 伽利略
+義大利科學革命時期
+天文學家及哲學家",1564-1642,,78,2015120802,
+20170814,e,"讀書對於智慧，
+
+就像運動對於身體一樣。",,英國諺語,,60,2016053002,
+20170815,m,在地海世界，一個充滿著島嶼、海洋、魔法的奇幻世界，萬物皆有真名。而當知曉了某物／人之真名，便能成為其主人。,"娥蘇拉·勒瑰恩
+Ursula K. Le Guin
+美國科幻、奇幻作家","地海巫師
+A Wizard of Earthsea",https://zh.wikipedia.org/wiki/%E5%A8%A5%E8%98%87%E6%8B%89%C2%B7%E5%8B%92%E7%91%B0%E6%81%A9,10,2016121401,
+20170815,m,"不是因為事情困難，
+所以我們不敢做；
+而是因為我們不敢做，
+事情才變得困難。
+
+It is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.","塞內卡
+Lucius Annaeus Seneca
+羅馬哲學家",約前4年－65年,,26,2015120802,
+20170815,m,"如果我們努力去尋找的話﹐
+
+總會有改進的空間﹐
+
+在某處等著我們。","李奧貝納
+Leo Burnett 
+廣告大師",1891-1971,,32,2016053003,
+20170815,e,"你的目標是要像
+神一般的平靜
+但以全速前進的能量來生活
+就像酒神戴奧尼西斯
+能騎在豹子身上
+卻不會被撕成碎片一樣","坎伯
+Joseph Campbell 
+神話學家","千面英雄
+The Hero with A Thousand Faces",http://www.books.com.tw/products/0010009202,15,2016053003,
+20170815,e,"能夠孤獨，
+
+乃是能夠愛的條件。","埃里希·弗羅姆
+Erich Fromm
+人本主義哲學家
+精神分析心理學家",1900-1980,,82,2015120801,
+20170815,e,"越不冒險的人，
+
+就要背負更大的危險。",鐘偉倫,《行旅，在深邃亞細亞》,http://www.books.com.tw/products/0010683113,91,2016053003,
+20170816,m,時間對於那些別出心裁的小花樣是最無情的。,"莫里斯蒂克斯坦
+Morris Dickstein
+美國文化歷史學家",,,61,2016053003,
+20170816,m,"羞恥的本質
+
+並不是我們個人的錯誤
+
+而是被他人看見的恥辱","米蘭·昆德拉
+Milan Kundera
+捷克作家",,https://www.youtube.com/watch?v=6ayU3slCWNo,16,2016053002,
+20170816,m,"世界上兩個最大的武器就是耐心與時間。
+
+The two most powerful warriors are patience and time.","列夫·托爾斯泰
+Лев Толстой Lev Tolstoy
+俄國小說家
+著有《戰爭與和平》",1828-1910,https://zh.wikipedia.org/wiki/%E5%88%97%E5%A4%AB%C2%B7%E6%89%98%E7%88%BE%E6%96%AF%E6%B3%B0,23,2016053003,
+20170816,e,"宗教是心靈的拐杖，
+這拐杖有人需要，
+有人不需要。
+但拿拐杖打人就不對了。",,,,11,2016121401,
+20170816,e,"每個人都會思考，但思考並不會讓你的生活變得美好。
+
+正確的思考才會。","楊大輝
+ROXAS
+臺灣作家兼說書人",智讀,http://4think.net/%E6%88%90%E7%86%9F%E6%80%9D%E7%B6%AD%E7%9A%84%E5%9B%9B%E5%80%8B%E7%99%BC%E5%B1%95%E9%9A%8E%E6%AE%B5/,30,2015120801,
+20170816,e,"清晰思考需要的勇氣更甚於智力。
+
+Clear thinking requires courage, rather than intelligence.","湯馬斯薩斯
+Thomas Szasz
+美國臨床心理學家",,https://www.youtube.com/watch?v=Qj7GmeSAxXo,9,2016053002,
+20170817,m,"真正的無知不是知識的缺乏，而是拒絕獲取知識。
+
+True ignorance is not the absence of knowledge, but the refusal to acquire it.","卡爾·波普爾
+Karl R. Popper
+英國哲學家",,https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94,60,2015120801,
+20170817,m,"也許我的失敗是為了引領我走向更華麗的失敗。
+
+Maybe my failures liberated me toward ever more colorful and flamboyant failures.","凱蒂洛菲 Katie Roiphe
+美國散文家",邋遢頌 In Praise of Messy Lives,https://www.facebook.com/photo.php?fbid=10212847278233406&set=a.10204346909169492.1073741849.1132607838&type=3&theater,38,2016053003,
+20170817,m,"房東：
+
+「貧民窟，是好物，
+
+那裡是我的金雞母。」","馬修‧戴斯蒙
+Matthew Desmond
+哈佛大學社會學學者",下一個家在何方？,,35,2016061502,
+20170817,e,生命或許沒那麼公平，但我們的心靈可以不必那麼卑賤，我們永遠有資格去追求更公平的世界。,"溫朗東
+港裔台灣人
+相對論 udn debate 執行編輯",,https://www.facebook.com/kookisky/posts/2037910922901747,1,2015120802,
+20170817,e,"我有殘疾，
+
+但我不是殘廢。","史蒂夫·亞力克西
+Steve Alexy
+美國腦癱健身教練",,http://www.ifuun.com/a2017111926522/,30,2015120801,
+20170817,e,"嘗試在人間建立天堂，
+
+終究只會創造出地獄。
+
+The attempt to make heaven on earth invariably produces hell.","卡爾·波普爾
+Karl R. Popper
+英國哲學家",,https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94,73,2016121401,
+20170818,m,"科學必須始於神話，
+
+並伴隨著對神話的批判。
+
+Science must begin with myths, and with the criticism of myths.","卡爾·波普爾
+Karl R. Popper
+英國哲學家",,https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94,27,2016100602,
+20170818,m,好的作家應該能夠激起辯論，提出異議，即便那將會使她付出代價。,"道恩斯 Jim Downs
+美國歷史學家",誰還在怕凱蒂洛菲？,https://www.facebook.com/photo.php?fbid=10212847278233406&set=a.10204346909169492.1073741849.1132607838&type=3&theater,63,2016053002,
+20170818,m,"醫生們告訴我的父母應該讓我待在家裡，但我每天都去健身房鍛煉。
+
+希望那些醫生們能看見現在的我。","史蒂夫·亞力克西
+Steve Alexy
+美國腦癱健身教練",,http://www.ifuun.com/a2017111926522/,77,2015120802,
+20170818,e,我們當然有權懷疑。但懷疑歸懷疑，腳步仍然不能停，把懷疑當作人生哲學，就跟選擇不動來當運輸工具一樣，到頭來，你哪裡也去不了。,"楊·馬泰爾 Yann Martel
+加拿大作家",少年Pi的奇幻漂流 Life of Pi,https://zh.wikipedia.org/wiki/%E6%8F%9A%C2%B7%E9%A6%AC%E7%89%B9%E7%88%BE,76,2016121401,
+20170818,e,人生與自我都不是用來戰勝的，而是用來相處的。,"楊·馬泰爾 Yann Martel
+加拿大作家",少年Pi的奇幻漂流 Life of Pi,https://zh.wikipedia.org/wiki/%E6%8F%9A%C2%B7%E9%A6%AC%E7%89%B9%E7%88%BE,10,2016061502,
+20170818,e,很多人事物到今天都還在發酵，還沒成為歷史。我們就活在50年後的人的歷史裡。,"黃震南
+活水來冊房藏書主",臺灣史上最有梗的臺灣史,http://www.books.com.tw/products/0010722013,33,2016053002,
+20170819,m,"也許我是錯而你是對，
+但只有我們一起努力，
+才能更接近真理。
+
+I may be wrong and you may be right, and by an effort, we may get nearer to the truth.","卡爾·波普爾
+Karl R. Popper
+英國哲學家",開放社會及其敵人,https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94,78,2015120801,
+20170819,m,"爸爸在售票亭不遠的牆上用鮮紅色的油漆寫了一句話：『你知道動物園裡最危險的動物是什麼嗎？』然後有一個箭頭指向一扇小布帘。
+
+有許多好奇的遊客急著把布帘扯開，所以布帘的汰換率很高。
+
+布帘後是一面鏡子。","楊·馬泰爾 Yann Martel
+加拿大作家",少年Pi的奇幻漂流 Life of Pi,https://zh.wikipedia.org/wiki/%E6%8F%9A%C2%B7%E9%A6%AC%E7%89%B9%E7%88%BE,16,2016121401,
+20170819,m,"人們常說的那些恩重如
+山
+有一些後來
+就成了土石流",蔡仁偉,人情,https://m.facebook.com/goodnightpoem/photos/a.177624585760817.1073741828.177554425767833/677932565730014/?type=3&source=57,23,2016053003,
+20170819,e,要評斷一個人是否具備第一流的智慧，就是看其有沒有能力在心智中，同時秉有兩種互相對立的概念，而仍能保持正常運作。,"史考特·費茲傑羅
+Scott Fitzgerald
+美國小說家",1896－1940,,64,2016053002,
+20170819,e,"我這麼努力 
+嘿，我從早忙到晚 
+你知不知道
+我一點都不快樂
+
+做的都不是
+自己喜歡做的事 
+怎麼會快樂呢？","楊德昌
+臺灣導演",一一,https://www.youtube.com/watch?v=mKlpUKvxIWY,65,2015120801,
+20170819,e,"一群狗餓得發慌，牠們瞧見了躲在河裡的牛群。
+
+因為沒有辦法游過去，牠們決定要把河水喝乾。但是遠在牠們可以靠近牛隻之前，就因為喝了太多河水而把自己給撐死了。
+---
+不要痴人說夢。
+Attempt not impossibilities.",伊索寓言 Aesop Fables,狗與躲在河裡的牛,http://www.taleswithmorals.com/the-dogs-and-the-hides.htm,17,2016053002,
+20170820,m,"解決更多仇恨唯一的方法就是更多人性。我們必須用好奇代替恐懼。
+
+我們必須藉由彼此的聯繫來尋找「我們」，相信我們是同一個部落的成員，對每一個靈魂發揮同理心。","史蒂芬·史皮伯
+Steven Allan Spielberg
+美國電影導演、製作人",2016哈佛畢業演講,http://portal.myoops.org/graduate_detail.php?id=91,74,2015120801,
+20170820,m,"只你還擁有朋友，
+
+你的人生就不是失敗的。",天使 Clarence,電影：風雲人物,,16,2016121401,
+20170820,m," 我背上背包，先往外走，
+跟她說 ""一路平安 祝福妳""
+
+  她一臉感動，說
+""你也是 也祝福你""
+
+那時我很想跟她說
+我要是有一個女兒
+我也希望她能像妳一樣勇敢
+一生貪看流動的風景
+能感受孤獨的況味
+在不同的國家旅行
+認識各式各樣的人",駱以軍,,https://www.facebook.com/louyichin/posts/1118336498225168?pnref=story,65,2016100602,
+20170820,e,法國環境部長余洛宣布，世界第六大經濟體法國將在2040年停售柴油車和汽油車。,,,https://money.udn.com/money/story/5599/2569548,70,2015120802,
+20170820,e,"我學到無論跑步與人生都沒有所謂失敗，只要你繼續前進。
+
+I have learned that there is no failure in running, or in life, as long as you keep moving.","Amby Burfoot
+安比‧波爾富
+波士頓馬拉松冠軍",,,76,2015120801,
+20170820,e,"我總希望，
+下一代可以更清醒，
+
+不只靠運氣，
+還有哲學教育的機會，
+有邏輯、禮儀培養的機會，
+
+有哲學的陪伴，
+有深刻的生命。","楊子葆
+文化部政務次長",哲學的陪伴與慰藉,http://www.chinatimes.com/newspapers/20160604000781-260116,19,2016053002,
+20170821,m,"你說　心裡有大塊的悲傷
+那就暫時借給我吧
+我一直沒正經事幹
+最近打算找塊地種點東西
+
+都說種什麼得什麼
+說不定　十年後
+人們會發現
+他們一直缺乏
+新鮮又有機的悲傷","葉青  詩人
+下輩子更加決定",大塊的悲傷,https://zh.wikipedia.org/wiki/%E8%91%89%E9%9D%92_(%E8%A9%A9%E4%BA%BA),74,2016121401,
+20170821,m,"如果一個人可以製造那麼多的仇恨，可以想像，當我們所有人聚在一起時，能產生多少愛。
+
+If one man can show that much hate, think of how much love we can show
+
+Om én mann kan vise så mye hat, tenk hvor mye kjærlighet vi alle kan vise sammen!","絲汀·荷漢
+Stine Renate Håheim
+挪威國會議員",2011年 烏托亞島屠殺倖存者,https://www.managertoday.com.tw/quotes/view/749,31,2016061502,
+20170821,m,"真正的富裕，
+
+是有時間做自己想做的事。","李偉文
+荒野保護協會創辦人",,http://newsblog.chinatimes.com/sow,6,2015120802,
+20170821,e,追求科學需要特殊的勇敢。,"伽利略·伽利萊
+Galileo Galilei
+義大利科學家、哲學家",1564－1642,https://zh.wikipedia.org/zh-tw/%E4%BC%BD%E5%88%A9%E7%95%A5%C2%B7%E4%BC%BD%E5%88%A9%E8%8E%B1,17,2015120801,
+20170821,e,"如果人民欺骗政府，
+他就犯了重罪；
+
+但是如果政府欺骗人民，
+那就只是政治而已。
+
+So, if we lie to the government, it's a felony. 
+
+But they lie to us, it's politics","比爾墨瑞
+Bill Murray
+美國演員",,https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E8%8E%AB%E7%91%9E,66,2016053002,
+20170821,e,"愛可以拉一隻大象
+
+穿過鑰匙孔
+
+Love will draw an elephant through a key-hole.","塞繆爾·理查森
+Samuel Richardson
+英國作家",1689-1761,https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7%E7%90%86%E6%9F%A5%E6%A3%AE,82,2016121401,
+20170822,m,"僅僅因為
+人類無法想像
+某件事件會發生，
+
+不意味著
+它就不會發生。","丹·布朗
+Dan Brown
+美國作家",地獄,,7,2016053002,
+20170822,m,"上帝給了人們
+有限的力量，
+
+卻給了人們
+無限的欲望。","大仲馬
+法國浪漫主義作家
+1802-1870","基度山恩仇記
+Le Comte de Monte-Cristo",,8,2016061502,
+20170822,m,"在對「科學究竟是什麼」全然無知的前提下，許多人認為科學的任務就是發現新機器，或者是幫助人們發明新機器，以便改善我們的生活條件。
+
+他們會把這些事情留給專家來做，就像讓管道工來修理他們的水管一樣。
+
+如果讓持有這樣觀點的人為我們的孩子選擇學習課程，其結果必然是可悲的。","埃爾溫·薛丁格
+Erwin Schrödinger
+奧地利量子物理學家","
+1887-1961",,60,2015120801,
+20170822,e,"當你蓋了一道
+
+ 30 公尺高的圍牆，
+
+你只是為 31公尺高的梯子
+
+帶來商機。",Paul Beban,上週今夜,http://forgetfulbc.blogspot.com/2016/03/wall.html,62,2015120802,
+20170822,e,"學生從不在乎你知道多少，
+
+直到他們知道你在乎多少。
+
+Students don’t care how much you
+know until they know how much you
+care.",,,https://www.youtube.com/watch?v=j9RDfv5OAZQ,36,2015120801,
+20170822,e,"真金未必閃亮，
+浪子未必迷途；
+老而彌堅不會凋零，
+深根隱埋不懼嚴霜。
+
+冷灰中熱火甦醒，
+暗影中光明跳盪；
+青鋒斷刃將重鑄，
+無冕者再臨為王。","J·R·R·托爾金
+John Ronald Reuel Tolkien
+英國作家、詩人、語言學家
+1892－1973",魔戒,,65,2016100602,
+20170823,m,"幸福以不幸為養分
+因而燦爛盛開
+
+無論是多麼喜悅的海洋
+不可能沒有
+一滴小小的淚水
+溶化其中","谷川俊太郎
+Shuntaro Tanikawa
+　　日本當代詩人，劇作家、散文家、翻譯家",https://www.facebook.com/cendalirit/photos/a.903237419700494.1073741828.902736833083886/1141114095912824/?type=3&theater,,2,2016061502,
+20170823,m,"為了練習，
+
+首先神造了傻子，
+
+然後祂創造了教育部。
+
+
+In the first place God made idiots. This was for practice. Then He made School Boards.","馬克吐溫
+Mark Twain 
+美國小說家、作家",1835-1910,,39,2015120801,
+20170823,m,所以真正的正義與和平，不是消滅差異，不是拿自己的標準壓制別人，而是擁抱差異，讓每個人表現真實的自己。,超級歪電影院,X教授與萬磁王的正義論,https://www.youtube.com/watch?v=h4KcMTr0VXo,68,2016100602,
+20170823,e,"請「聘用」我，
+
+而不是把我當網紅。","周欽華
+科技島讀主筆",知識型自媒體,https://www.inside.com.tw/2017/06/02/daodu-tech-yowurepor,63,2015120802,
+20170823,e,"真是個奇怪的遊戲。
+
+唯一可以贏的方法，
+
+就是不要玩。
+
+A strange game. The only winning move is not to play.",1983 電影,WarGames,http://www.imdb.com/title/tt0086567/?ref_=ttqt_qt_tt,65,2016121401,
+20170823,e,"死亡是他們的命運，是伊露維塔所賜的禮物，隨著時間不斷地流逝，連諸神也會羨慕這個禮物。
+
+Death is their fate, the gift of Ilúvatar, which as time wears even the Powers shall envy.  ","J·R·R·托爾金
+John Ronald Reuel Tolkien
+英國作家、詩人
+語言學家、大學教授
+1892－1973",精靈寶鑽,,23,2016053003,
+20170824,m,每個人都應該認識死亡的意義。構成一個完整的個體的核心之一就是接納自己生命有限的真相。當然，我們要為活下去打拼，然而當它要成為過去的時候，我們就擁抱這個終點吧。,"Pieter Hintjens 
+比利時作家、程式設計師",臨終協定,https://www.facebook.com/notes/%E8%91%89%E4%BF%A1%E6%BA%90/%E8%87%A8%E7%B5%82%E5%8D%94%E5%AE%9Aa-protocol-for-dying/10153556546128601,23,2016121401,
+20170824,m,"啊，年輕時站在閃閃發光的河畔，相信夢想是件多棒的事！
+
+但在人生過程中奮鬥並在最後說，這個夢是真的，是件更棒的事。","愛德溫‧馬爾侃
+Edwin Markham
+美國詩人",1852-1940,,2,2016053002,
+20170824,m,"如果臺灣嘻哈有MVP
+
+我就是饒舌的鄧麗君
+
+你信不信","葛仲珊 MISS KO
+中英文饒舌歌手",,https://youtu.be/65Yk_Q4BbCY?t=9m,38,2016100602,
+20170824,e,人生是由小的愉快組成，快樂是由那些小的成功所組成，大的成功太不常出現，而你如果不重視這些小的成功，大的成功也不具任何意義。,"諾曼．李爾
+Norman Lear
+美國電視節目編劇及製作人",,,77,2016053003,
+20170824,e,"教導的藝術，是喚醒小孩天生好奇心並在未來滿足它的藝術；
+
+而好奇心本身的鮮活及益處，與內心的滿足及快樂成正比。","阿納托爾．法郎士 
+Anatole Francev
+法國作家
+1921年諾貝爾文學獎得主",1844-1924,,37,2015120801,
+20170824,e,"必須記住我們學習的時間是有限的。
+
+時間有限，不只由於人生短促，更由於人的紛繁。
+
+我們應該力求把我們所有的時間用去做最有益的事。","赫伯特·史賓賽
+Herbert Spencer
+英國哲學家",1820－1903,https://zh.wikipedia.org/wiki/%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E6%96%AF%E5%AE%BE%E5%A1%9E,11,2015120802,
+20170825,m,"犯錯的人生不只比虛晃的人生更令人尊敬，也更有益處。
+
+A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.","蕭伯納
+George Bernard Shaw
+愛爾蘭劇作家
+1925年諾貝爾文學獎",1856－1950,https://zh.wikipedia.org/wiki/%E8%90%A7%E4%BC%AF%E7%BA%B3,34,2016061502,
+20170825,m,"不是每一個
+讓我們感覺好的東西
+都對我們有益；
+
+不是每一個
+傷害我們的東西
+就是不好的。","艾倫‧狄波頓
+Alain de Botton
+英國當代作家",哲學的慰藉,http://www.books.com.tw/products/0010156730,72,2016053003,
+20170825,m,"快樂跟愉悅不同，
+
+快樂是有關
+
+奮鬥、堅持和完成。
+
+Happiness is different from pleasure. Happiness has something to do with struggling and enduring and accomplishing.","喬治·席翰 George Sheehan
+美國心臟科醫師、慢跑運動員",1918-1993,,66,2015120802,
+20170825,e,"青春是人生最快樂的時光。
+
+但這種快樂往往完全是因為它充滿著希望，而不是因為得到了什麼或逃避了什麼。","托馬斯·克萊爾
+Thomas Carlyle
+蘇格蘭歷史學家",1795 -1881,,76,2016100602,
+20170825,e,"一個人如果缺乏比外界的一切影響更高更堅強的東西，那麼只要害一場重傷風，就足以使他失去常態。
+
+使他一看見鳥就認為是貓頭鷹，一聽見聲音就認為是狗叫。
+
+在這樣的時候，他所有的樂觀主義或者悲觀主義，以及因而產生的偉大和渺小的思想，就純粹成了病態，不是別的了。 ","安東·帕夫洛維奇·契訶夫
+Антон Павлович Чехов
+俄國的短篇小說家",1860-1904,,17,2016053002,
+20170825,e,"世界上只有一件事，
+
+比被人議論還要糟糕，
+
+那就是不被議論。","奧斯卡．王爾德
+Oscar Wilde
+愛爾蘭作家",1854-1900,,63,2016061502,
+20170826,m,"深思熟慮的結果，
+
+往往就是說不清楚。","王小波
+中國學者、作家
+1952-1997",黑鐵時代,,73,2015120802,
+20170826,m,"知識在書本之中，
+
+運用知識的智慧
+
+卻在書本之外。","法蘭西斯·培根
+Francis Bacon
+英國哲學家、政治家",1561-1626,https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9,63,2016053002,
+20170826,m,"敗壞之先，人心驕傲；
+
+尊榮以前，必有謙卑。",聖經,箴言,,23,2016061502,
+20170826,e,"我自己當然希望
+變得更善良，
+
+但這種善良
+應該是我變得更聰明造成的，
+而不是相反。","王小波
+中國學者、作家",1952-1997,https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2,8,2015120801,
+20170826,e,"吝嗇的真實含義
+
+不是捨不得花自己的錢，
+
+而是捨得花別人的錢。","鄭淵潔
+中國當代作家",鄭淵潔童話全集,https://zh.wikipedia.org/wiki/%E9%83%91%E6%B8%8A%E6%B4%81%E7%AB%A5%E8%AF%9D%E5%85%A8%E9%9B%86,70,2016121401,
+20170826,e,"有一種鳥
+
+是永遠也關不住的，
+
+因為它的每片羽翼上
+
+都沾滿了自由的光輝！",電影,刺激1995 The Shawshank Redemption,https://www.youtube.com/watch?v=AAzVYa3L31M,17,2016100602,

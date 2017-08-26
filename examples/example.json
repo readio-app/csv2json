@@ -3,150 +3,1180 @@
         {
             "data": [
                 {
-                    "banner": "a",
-                    "from": "book",
-                    "quote": "我其實不太確定我是否存在。我是我有我讀過的作家、所有遇過的人、所有愛過的女人、所有曾經到訪過的城市。\nI am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited.  ",
-                    "author": "阿根廷詩人\nJorge Luis Borges\n",
-                    "id": "2016120101",
-                    "bg": "0"
+                    "link": "http://speakola.com/grad/jake-bailey-christchurch-boys-high-2015",
+                    "from": "畢業前夕生命僅剩三周的致詞",
+                    "quote": "是這樣的，我們沒人能活著離開人世，所以為什麼不變得更勇敢、更偉大、更包容，並且感激擁有的機會。\n\nHere's the thing – none of us get out of life alive. So be gallant, be great, be gracious, and be grateful for the opportunities that you have.",
+                    "author": "Jake Bailey，紐西蘭高中生",
+                    "id": "2017080701",
+                    "bg": "23",
+                    "bannerid": "@2015120801"
                 },
                 {
-                    "banner": "",
-                    "from": "book",
-                    "quote": "那些瘋狂到覺得自己可以改變世界的人，才是真正改變世界的人。\nThe people who are crazy enough to think they can change the world are the ones who do. ",
-                    "author": "賈伯斯\nSteve Jobs",
-                    "id": "2016120102",
-                    "bg": "1"
+                    "link": "http://www.books.com.tw/products/0010702801",
+                    "from": "平行倫敦：遠征月亮山脈",
+                    "quote": "恐怕在殺死上帝的同時，\n他並未成功摧毀惡魔。",
+                    "author": "馬克．霍德爾\nMark Hodder\n英國作家",
+                    "id": "2017080702",
+                    "bg": "10",
+                    "bannerid": "@2016061502"
                 },
                 {
-                    "banner": "b",
-                    "from": "book",
-                    "quote": "要記住，大愛與大成就必定也藏著極大的冒險。\nTake into account that great love and great achievements involve great risk.",
-                    "author": "達賴喇嘛\nThe Dalai Lama",
-                    "id": "2016120111",
-                    "bg": "2"
+                    "link": "https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E5%8D%A1%C2%B7%E7%8E%8B%E5%B0%94%E5%BE%B7",
+                    "from": "1854-1900",
+                    "quote": "你不會因為一個人的外表、服裝、或是他們昂貴的跑車而愛上他們。\n\n而是因為他們唱了一首只有你能聽見的歌。\n\nYou don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.",
+                    "author": "奧斯卡．王爾德\nOscar Wilde\n愛爾蘭作家 ",
+                    "id": "2017080703",
+                    "bg": "65",
+                    "bannerid": "@2016053002"
                 },
                 {
-                    "banner": "",
-                    "from": "book",
-                    "quote": "愛情之樹應該深深紮根在泥土中，而起枝條則要伸展於廣闊的天空。\nLove should be a tree whose roots are deep in the earth, but whose branches extend into heaven. ",
-                    "author": "伯特蘭·羅素\nBertrand Russell",
-                    "id": "2016120112",
-                    "bg": "3"
+                    "link": "https://zh.wikipedia.org/wiki/%E5%A4%8F%E7%B6%A0%E8%92%82%C2%B7%E5%8B%83%E6%9C%97%E7%89%B9",
+                    "from": "1816-1855",
+                    "quote": "因循舊規不等同於道德\n自詡正義不等同於宗教\n\n攻擊前者\n未必是詆毀後者\n\n摘除偽善者的面具\n未必是對耶穌荊冠\n伸出褻瀆之手",
+                    "author": "夏綠蒂勃朗特\nCharlotte Brontë\n英國作家",
+                    "id": "2017080711",
+                    "bg": "63",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "",
+                    "from": "1856－1950",
+                    "quote": "說謊者所受的懲罰，\n絕不在於沒有人相信他，\n而是他不能相信任何人。",
+                    "author": "蕭伯納\nGeorge Bernard Shaw\n愛爾蘭劇作家\n1925年諾貝爾文學獎",
+                    "id": "2017080712",
+                    "bg": "8",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://www.flyingv.cc/project/2696",
+                    "from": "",
+                    "quote": "即便成功機會微乎其微，\n\n都勝過於不願嘗試的零。",
+                    "author": "徐超斌\n南迴醫院發起人",
+                    "id": "2017080713",
+                    "bg": "13",
+                    "bannerid": "@2015120802"
                 }
             ],
-            "date": "20161201"
+            "date": "20170807"
         },
         {
             "data": [
                 {
-                    "banner": "c",
-                    "from": "web",
-                    "quote": "最好的關係是你愛別人的程度，超過你需要別人的程度。\nRemember that the best relationship is one in which your love for each other exceeds your need for each other.",
-                    "author": "達賴喇嘛\nThe Dalai Lama",
-                    "id": "2016120201",
-                    "bg": "4"
-                },
-                {
-                    "banner": "",
-                    "from": "web",
-                    "quote": "做一個愛者，而非戰者，但永遠要為你所愛而戰。\nBe a lover, not a fighter. But always fight for what you love.    ",
-                    "author": "Unknown",
-                    "id": "2016120202",
-                    "bg": "5"
-                },
-                {
-                    "banner": "d",
-                    "from": "web",
-                    "quote": "人的天性就是如此，他最樂意將愛給予那些似乎最不強求愛的人。\nHuman nature is so constructed that it gives affection most readily to those who seem least to demand it. ",
-                    "author": "伯特蘭·羅素\nBertrand Russell",
-                    "id": "2016120211",
-                    "bg": "6"
-                },
-                {
-                    "banner": "",
-                    "from": "web",
-                    "quote": "記得，那些最幸福的人，不是得到最多的人，而是有更多東西能夠給予的人。\nRemember that the happiest people are not those getting more, but those giving more.  ",
-                    "author": "H. Jackson Brown, Jr.",
-                    "id": "2016120212",
-                    "bg": "7"
-                }
-            ],
-            "date": "20161202"
-        },
-        {
-            "data": [
-                {
-                    "banner": "e",
-                    "from": "book",
-                    "quote": "就像他們說的，人會死兩次。一次是我們停止呼吸，另一次是最後一個我們認識的人叫出我們的名字。\nThey say, people die twice. Once, when the breath leaves our body, and once when the last person they know says their name.   ",
-                    "author": "Unknown",
-                    "id": "2016120301",
-                    "bg": "8"
-                },
-                {
-                    "banner": "",
-                    "from": "book",
-                    "quote": "你掌控你自己的命運，不需要任何魔法來幫助你做到這點！問題的解決方法也沒有任何神奇的捷徑。\nYou control your destiny ─ you don't need magic to do it.\nAnd there are no magical shortcuts to solving your problems. ",
-                    "author": "勇敢傳說",
-                    "id": "2016120302",
-                    "bg": "9"
-                },
-                {
-                    "banner": "f",
-                    "from": "book",
-                    "quote": "先挑戰自己的認知。你的認知是你觀望世界的窗；不時擦拭，光線才能穿透。\nBegin challenging your own assumptions. Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in. ",
-                    "author": "亞 倫‧艾達，美國演員\nAlan Alda",
-                    "id": "2016120311",
-                    "bg": "10"
-                },
-                {
-                    "banner": "",
-                    "from": "book",
-                    "quote": "從哪裡來無所謂，重點是要往哪去。\nIt isn't where you came from; it's where you're going that counts.",
-                    "author": "艾拉‧費茲傑羅，美國爵士女伶\nElla Fitzgerald",
-                    "id": "2016120312",
-                    "bg": "11"
-                }
-            ],
-            "date": "20161203"
-        },
-        {
-            "data": [
-                {
-                    "banner": "g",
-                    "from": "web",
-                    "quote": "智慧之道在於懂得視而不見。\nThe art of being wise is the art of knowing what to overlook.",
-                    "author": "威廉‧詹姆斯，美國心理學家\nWilliam James",
-                    "id": "2016120401",
+                    "link": "",
+                    "from": "爸爸，我們去哪裡？",
+                    "quote": "幽默，\n是對付痛苦最好的武器！",
+                    "author": "尚路易．傅尼葉  \nJean-Louis Fournier\n法國作家及電視劇編導",
+                    "id": "2017080801",
                     "bg": "12"
                 },
                 {
-                    "banner": "",
-                    "from": "web",
-                    "quote": "在寸步維艱時還能堅持前進的人就是贏家。\nThe man who can drive himself further once the effort gets painful is the man who will win.",
-                    "author": "羅傑‧班尼斯特，英國長跑運動員\nRoger Bannister",
-                    "id": "2016120402",
-                    "bg": "13"
+                    "link": "",
+                    "from": "箴言集",
+                    "quote": "有些譴責是讚美，\n\n有些讚美則是譴責。",
+                    "author": "法蘭索瓦·德·拉羅希福可\nFrançois VI, \nduc de La Rochefoucauld\n法國箴言作家\n1613─1680",
+                    "id": "2017080802",
+                    "bg": "3"
                 },
                 {
-                    "banner": "h",
-                    "from": "web",
-                    "quote": "船待港內固然安全，但船的目的就是要出海探索新天地。\nA ship in port is safe, but that's not what ships are built for. Sail out to sea and do new things.",
-                    "author": "葛蕾斯‧哈柏，美國電腦科學家\nGrace Hopper",
-                    "id": "2016120411",
-                    "bg": "14"
+                    "link": "https://www.youtube.com/watch?v=DioZyZQUDTY",
+                    "from": "香料帝國",
+                    "quote": "世界上只有兩種人：\n看地圖的人和看鏡子的人，\n看地圖的人將要遠行，\n而看鏡子的人準備回家。 ",
+                    "author": "電影 A Touch of Spice",
+                    "id": "2017080803",
+                    "bg": "10",
+                    "bannerid": "@2016061502"
                 },
                 {
-                    "banner": "",
-                    "from": "web",
-                    "quote": "人最可怕的時候莫過於他們自以為有理而且對此毫不懷疑。\nHuman beings are perhaps never more frightening than when they are convinced beyond doubt that they are right.",
-                    "author": "勞倫斯‧凡‧德‧普司特，南非探險家兼作家\nLaurens van der Post  ",
-                    "id": "2016120412",
-                    "bg": "15"
+                    "link": "",
+                    "from": "1898－1956",
+                    "quote": "聰明不代表不會犯錯，\n\n而是立即發覺出\n\n如何從中得益。",
+                    "author": "貝托爾特·布萊希特\n德國戲劇家、詩人\nBertolt Brecht",
+                    "id": "2017080811",
+                    "bg": "32",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "",
+                    "from": "1891-1971",
+                    "quote": "伸手摘星﹐\n即使徒勞無功﹐\n亦不致一手污泥。",
+                    "author": "李奧貝納\nLeo Burnett \n廣告大師",
+                    "id": "2017080812",
+                    "bg": "22",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "",
+                    "from": "何以笙簫默",
+                    "quote": "如果世界上曾經有那個人出現過，\n\n其他人都會變成將就。",
+                    "author": "電影",
+                    "id": "2017080813",
+                    "bg": "32",
+                    "bannerid": "@2016061502"
                 }
             ],
-            "date": "20161204"
+            "date": "20170808"
+        },
+        {
+            "data": [
+                {
+                    "link": "http://www.books.com.tw/products/0010423701",
+                    "from": "",
+                    "quote": "能在沒有證據的情況下被斷言的，也能在沒有證據的情況下被摒棄。\n\nWhat can be asserted without evidence can be dismissed without evidence.",
+                    "author": "克里斯托弗·希欽斯\nChristopher Hitchens\n英國作家、記者、辯論家",
+                    "id": "2017080901",
+                    "bg": "11",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%A8%A5%E8%98%87%E6%8B%89%C2%B7%E5%8B%92%E7%91%B0%E6%81%A9",
+                    "from": "地海巫師\nA Wizard of Earthsea",
+                    "quote": "但是只有「需要」還不足以召喚出力量，得要有「知識」才行。\n\nBut need alone is not enough to set power free: there must be knowledge.",
+                    "author": "娥蘇拉·勒瑰恩\nUrsula K. Le Guin\n美國科幻、奇幻作家",
+                    "id": "2017080902",
+                    "bg": "15",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://youtu.be/StbzTbIaGVc?t=1m53s",
+                    "from": "1869-1948",
+                    "quote": "以眼還眼，\n\n世人皆盲。\n\nAn eye for an eye makes the whole world blind.",
+                    "author": "甘地 Gandhi\nमोहनदास करमचंद गांधी\n印度民族主義運動\n國大黨領袖",
+                    "id": "2017080903",
+                    "bg": "6",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=Gfr3ySguQP8",
+                    "from": "學習的理由",
+                    "quote": "為了拿到高分，\n\n你已經不再學習了。",
+                    "author": "紀錄片",
+                    "id": "2017080911",
+                    "bg": "24",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=2F7WS-h78b8",
+                    "from": "",
+                    "quote": "我失敗了一次一次又一次，那就是我成功的原因。\n\nI've failed over and over and over again in my life and that is why I succeed.",
+                    "author": "麥可喬丹\nMicheal Jordan\n前美國NBA職業籃球員",
+                    "id": "2017080912",
+                    "bg": "9",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": " ",
+                    "quote": "如果生命給你檸檬，\n你就把它做成檸檬汁，\n然後試著去找\n生命給他伏特加的人，\n開一場派對！\n\nI believe that if life gives you lemons, you should make lemonade... And try to find somebody whose life has given them vodka, and have a party.",
+                    "author": "羅恩·懷特\nRon White\n美國單口相聲演員",
+                    "id": "2017080913",
+                    "bg": "12",
+                    "bannerid": "@2016061502"
+                }
+            ],
+            "date": "20170809"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://www.youtube.com/watch?v=4Aa9GwWaRv0",
+                    "from": "1958－2009",
+                    "quote": "看著專家如何執行他們的工作是最棒的學習方法。\n\nThe greatest education in the world is watching the masters at work.",
+                    "author": "麥可傑克森 Michael Jackson\n流行音樂歌手",
+                    "id": "2017081001",
+                    "bg": "9",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=F4GJEpLWtaQ",
+                    "from": "",
+                    "quote": "最好和比自己優秀的人在一起。\n\n挑選那些素行比自己良好的人當朋友，會使自己的行為被帶往好的方向。",
+                    "author": "巴菲特 Warren Buffett\n美國投資家、慈善家",
+                    "id": "2017081002",
+                    "bg": "4",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "",
+                    "from": "https://www.facebook.com/eric.jo.realizes.his.great.dream/videos/1038272502861963/",
+                    "quote": "當我還小的時候，狗狗就是我最好的老師。\n\n牠教會我，我們也是動物國度的一部分，而不只我們有性格和交流的智能，絕對不只我們有情緒，例如：快樂、悲傷、恐懼、絕望… \n\n也不只我們能感受愛、給予愛。",
+                    "author": "珍古德 Dame Jane Goodall\n英國動物行為學家\n人類學家和動物保育人士",
+                    "id": "2017081003",
+                    "bg": "14",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=FzEZHiI_pMQ",
+                    "from": "",
+                    "quote": "若我們等待某人或某時機才行動，改變是不會來臨的。\n\n其實我們所一直在等待和尋求的就是我們自己。",
+                    "author": "歐巴馬\nBarack Obama\n美國總統",
+                    "id": "2017081011",
+                    "bg": "13",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "我相信絕大部分的人，必須在漫漫人生裡，在與相遇的人，以及各種機緣巧合之下，慢慢地，或者跌跌撞撞的，一次又一次不同的選擇，才形塑出屬於自己的獨特人生。",
+                    "author": "李偉文\n臺灣生物學作家、牙科醫生\n曾任荒野保護協會理事長",
+                    "id": "2017081012",
+                    "bg": "19",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "如果你太在意別人的看法，那麽你的生活將變成一件褲子：\n\n別人放什麽屁，\n\n你都得接著。",
+                    "author": "",
+                    "id": "2017081013",
+                    "bg": "39",
+                    "bannerid": "@2016061502"
+                }
+            ],
+            "date": "20170810"
+        },
+        {
+            "data": [
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "獲得勝利並不一定表示自己更進步。\n\nWinning is not always the barometer of getting better.",
+                    "author": "Tiger Woods 老虎伍茲\n美國高爾夫球手",
+                    "id": "2017081101",
+                    "bg": "64",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": "https://www.youtube.com/watch?v=g1s47L8DrJ0",
+                    "quote": "英雄，指的是一個知曉「自由所伴隨而來的責任」的人。\n\nA hero is someone who understands the responsibility that comes with his freedom.",
+                    "author": "巴布狄倫 Bob Dylan\n美國搖滾、民謠歌手\n2016 諾貝爾文學家",
+                    "id": "2017081102",
+                    "bg": "5",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "http://www.biosmonthly.com/contactd.php?id=7302",
+                    "from": "2.5%個台灣",
+                    "quote": "如果台灣最美的風景是人，\n\n那這 60 萬移工在你眼前，\n\n為何你卻視而不見？",
+                    "author": "張正\n《四方報》前總編輯\n東南亞主題書店主人",
+                    "id": "2017081103",
+                    "bg": "10",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=gUaoP2S4VO0",
+                    "from": "地海巫師 A Wizard of Earthsea",
+                    "quote": "點亮一盞燭光，\n\n便投出一道陰影。\n\nTo light a candle is to cast a shaow.",
+                    "author": "娥蘇拉·勒瑰恩\nUrsula K. Le Guin\n美國奇幻文學作家",
+                    "id": "2017081111",
+                    "bg": "22",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "http://www.books.com.tw/products/0010680933",
+                    "from": "",
+                    "quote": "人生如果只停留在想像「現在的我能做什麼」，那麼無論過了多久，都無法超越那當下的自己。\n\n「夢」和「理想」這種東西，原本指的就是現在的自己無法達成的事。如果只是一味地保持安全駕駛，肯定也跨越不了人生的藩籬。",
+                    "author": "安藤忠雄\nあんどうただお\n日本當代建築師",
+                    "id": "2017081112",
+                    "bg": "25",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "",
+                    "from": "猶太格言",
+                    "quote": "這世上有三樣東西\n是別人搶不走的：\n一是吃進胃裡的食物，\n二是藏在心中的夢想，\n三是讀進大腦的知識。\n\nThere are three things in the world that people can not take away from you: the food in your stomach, the dream in your bosom, and the knowledge in your mind.",
+                    "author": "",
+                    "id": "2017081113",
+                    "bg": "67",
+                    "bannerid": "@2015120801"
+                }
+            ],
+            "date": "20170811"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://read01.com/nD33ye.html",
+                    "from": "",
+                    "quote": "低質量的社交\n\n不如\n\n高質量的獨處",
+                    "author": "朱曉莉",
+                    "id": "2017081201",
+                    "bg": "71",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "知道自己要找什麼時，\n網路搜尋很有幫助！\n\n但想要建構自己的看法、\n自己的觀點，\n只能透過廣泛的閱讀。",
+                    "author": "李偉文\n臺灣生物學作家、牙科醫生\n曾任荒野保護協會理事長",
+                    "id": "2017081202",
+                    "bg": "10",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "http://www.storm.mg/article/267814",
+                    "from": "1706-1790",
+                    "quote": "告訴我，\n我會忘記；\n\n教導我，\n我或許會記得；\n\n讓我參與，\n我便能學到。\n\nTell me and I forget, teach me and I may remember, involve me and I learn.",
+                    "author": "富蘭克林 Benjamin Franklin\n美國開國元勳\n科學家、企業家",
+                    "id": "2017081203",
+                    "bg": "60",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E8%89%BE%E8%90%A8%E5%85%8B%C2%B7%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB",
+                    "from": "1920－1992",
+                    "quote": "人生，\n\n不同於下棋，\n\n在將軍之後仍得繼續。\n\nIn life, unlike chess, the game continues after checkmate.",
+                    "author": "以撒‧艾西莫夫 Isaac Asimov\n美國生物學家\n科幻、科普作家",
+                    "id": "2017081211",
+                    "bg": "1",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=X59U4mUqWtw",
+                    "from": "1881－1973",
+                    "quote": "藝術是為了洗去我們靈魂中日積月累的塵埃而存在的。\n\nThe purpose of art is washing the dust of daily life off our souls.",
+                    "author": "畢卡索\nPablo Picasso \n西班牙藝術家\n立體主義創始人",
+                    "id": "2017081212",
+                    "bg": "19",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B",
+                    "from": "1909－2005",
+                    "quote": "管理是把事情做對，\n\n領導則是做對事情。\n\nManagement is doing things right ; leadership is doing the right things.",
+                    "author": "彼得．杜拉克 Peter Drucker\n管理學之父",
+                    "id": "2017081213",
+                    "bg": "6",
+                    "bannerid": "@2015120802"
+                }
+            ],
+            "date": "20170812"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://www.youtube.com/watch?v=QMKIE8vjBQI",
+                    "from": "",
+                    "quote": "小提琴與中提琴的分別是，\n\n中提琴可以燒比較久。\n\nThe difference between a violin and a viola is that a viola burns longer. ",
+                    "author": "維克托·伯厄\nVictor Børge\n丹麥幽默鋼琴家",
+                    "id": "2017081301",
+                    "bg": "88",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "",
+                    "from": "1854-1900",
+                    "quote": "你不會因為一個人的外表、服裝、或是他們昂貴的跑車而愛上他們。\n\n而是因為他們唱了一首只有你能聽見的歌曲。\n\nYou don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.",
+                    "author": "奧斯卡．王爾德\nOscar Wilde\n愛爾蘭作家 ",
+                    "id": "2017081302",
+                    "bg": "85",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E5%BE%B7%C2%B7%E6%8B%89%E7%BD%97%E4%BB%80%E5%AF%8C%E7%A7%91",
+                    "from": "箴言集",
+                    "quote": "愛存在之處，沒有任何偽裝者能夠長久隱藏它；愛不在之處，也沒有任何假裝可以長久冒充它。\n\nWhere love is, no disguise can hide it for long; where it is not, none can simulate it.",
+                    "author": "法蘭索瓦·德·拉羅希福可\nFrançois VI, \nduc de La Rochefoucauld\n法國箴言作家\n1613─1680",
+                    "id": "2017081303",
+                    "bg": "89",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=0Jm70Omtq48",
+                    "from": "1918－1988",
+                    "quote": "我很早就明白，\n\n知道一樣事物\n\n和知道一樣事物的名字\n\n的分別。\n\nI learned very early the difference between knowing the name of something and knowing something.",
+                    "author": "理查費曼\nRichard Phillips Feynman\n美國理論物理學家\n1965年諾貝爾物理獎得主",
+                    "id": "2017081311",
+                    "bg": "80",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "",
+                    "from": "約前4年－65年",
+                    "quote": "我們心中的恐懼\n\n永遠比真正的危險\n\n巨大得多。",
+                    "author": "塞內卡\nLucius Annaeus Seneca\n羅馬哲學家",
+                    "id": "2017081312",
+                    "bg": "84",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": "1854-1900",
+                    "quote": "我喜歡自言自語，\n因為這樣可以節省時間，\n而且不會有人跟我爭論。\n\nI like to do all the talking myself. It saves time, and prevents arguments. ",
+                    "author": "奧斯卡．王爾德 \nOscar Wilde\n愛爾蘭作家 ",
+                    "id": "2017081313",
+                    "bg": "86",
+                    "bannerid": "@2016121401"
+                }
+            ],
+            "date": "20170813"
+        },
+        {
+            "data": [
+                {
+                    "link": "",
+                    "from": "溫夫人的扇子",
+                    "quote": "我能抗拒一切，\n除了誘惑。\n\nI can resist everything except temptation.",
+                    "author": "奧斯卡．王爾德\nOscar Wilde\n愛爾蘭作家\n1854-1900",
+                    "id": "2017081401",
+                    "bg": "36",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=guuTn0RpVtU",
+                    "from": "",
+                    "quote": "我走到書店問店員『自助區』在哪兒？她說：「如果我告訴你，那『自助』就失去了意義了。」\n\nI went to a bookstore and asked the saleswoman, 'Where's the self-help section?' She said if she told me, it would defeat the purpose.",
+                    "author": "喬治卡林 George Carlin\n美國獨腳喜劇表演者、作家\n五座葛萊美獎得主",
+                    "id": "2017081402",
+                    "bg": "63",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "",
+                    "from": "英雄",
+                    "quote": "人若無名，\n\n便可專心練劍。",
+                    "author": "張藝謀電影",
+                    "id": "2017081403",
+                    "bg": "11",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "教父III",
+                    "quote": "千萬不要恨你的敵人，\n\n這會影響你的判斷力。",
+                    "author": "電影",
+                    "id": "2017081411",
+                    "bg": "9",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "",
+                    "from": "1564-1642",
+                    "quote": "真理就是具備這樣的力量：\n\n你越是想要攻擊它，\n\n你的攻擊，\n\n就越是充實了和證明了它。",
+                    "author": "Galileo Galilei 伽利略\n義大利科學革命時期\n天文學家及哲學家",
+                    "id": "2017081412",
+                    "bg": "78",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": "英國諺語",
+                    "quote": "讀書對於智慧，\n\n就像運動對於身體一樣。",
+                    "author": "",
+                    "id": "2017081413",
+                    "bg": "60",
+                    "bannerid": "@2016053002"
+                }
+            ],
+            "date": "20170814"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%A8%A5%E8%98%87%E6%8B%89%C2%B7%E5%8B%92%E7%91%B0%E6%81%A9",
+                    "from": "地海巫師\nA Wizard of Earthsea",
+                    "quote": "在地海世界，一個充滿著島嶼、海洋、魔法的奇幻世界，萬物皆有真名。而當知曉了某物／人之真名，便能成為其主人。",
+                    "author": "娥蘇拉·勒瑰恩\nUrsula K. Le Guin\n美國科幻、奇幻作家",
+                    "id": "2017081501",
+                    "bg": "10",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "",
+                    "from": "約前4年－65年",
+                    "quote": "不是因為事情困難，\n所以我們不敢做；\n而是因為我們不敢做，\n事情才變得困難。\n\nIt is not because things are difficult that we do not dare, it is because we do not dare that they are difficult.",
+                    "author": "塞內卡\nLucius Annaeus Seneca\n羅馬哲學家",
+                    "id": "2017081502",
+                    "bg": "26",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": "1891-1971",
+                    "quote": "如果我們努力去尋找的話﹐\n\n總會有改進的空間﹐\n\n在某處等著我們。",
+                    "author": "李奧貝納\nLeo Burnett \n廣告大師",
+                    "id": "2017081503",
+                    "bg": "32",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "http://www.books.com.tw/products/0010009202",
+                    "from": "千面英雄\nThe Hero with A Thousand Faces",
+                    "quote": "你的目標是要像\n神一般的平靜\n但以全速前進的能量來生活\n就像酒神戴奧尼西斯\n能騎在豹子身上\n卻不會被撕成碎片一樣",
+                    "author": "坎伯\nJoseph Campbell \n神話學家",
+                    "id": "2017081511",
+                    "bg": "15",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "1900-1980",
+                    "quote": "能夠孤獨，\n\n乃是能夠愛的條件。",
+                    "author": "埃里希·弗羅姆\nErich Fromm\n人本主義哲學家\n精神分析心理學家",
+                    "id": "2017081512",
+                    "bg": "82",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "http://www.books.com.tw/products/0010683113",
+                    "from": "《行旅，在深邃亞細亞》",
+                    "quote": "越不冒險的人，\n\n就要背負更大的危險。",
+                    "author": "鐘偉倫",
+                    "id": "2017081513",
+                    "bg": "91",
+                    "bannerid": "@2016053003"
+                }
+            ],
+            "date": "20170815"
+        },
+        {
+            "data": [
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "時間對於那些別出心裁的小花樣是最無情的。",
+                    "author": "莫里斯蒂克斯坦\nMorris Dickstein\n美國文化歷史學家",
+                    "id": "2017081601",
+                    "bg": "61",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=6ayU3slCWNo",
+                    "from": "",
+                    "quote": "羞恥的本質\n\n並不是我們個人的錯誤\n\n而是被他人看見的恥辱",
+                    "author": "米蘭·昆德拉\nMilan Kundera\n捷克作家",
+                    "id": "2017081602",
+                    "bg": "16",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%88%97%E5%A4%AB%C2%B7%E6%89%98%E7%88%BE%E6%96%AF%E6%B3%B0",
+                    "from": "1828-1910",
+                    "quote": "世界上兩個最大的武器就是耐心與時間。\n\nThe two most powerful warriors are patience and time.",
+                    "author": "列夫·托爾斯泰\nЛев Толстой Lev Tolstoy\n俄國小說家\n著有《戰爭與和平》",
+                    "id": "2017081603",
+                    "bg": "23",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "宗教是心靈的拐杖，\n這拐杖有人需要，\n有人不需要。\n但拿拐杖打人就不對了。",
+                    "author": "",
+                    "id": "2017081611",
+                    "bg": "11",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "http://4think.net/%E6%88%90%E7%86%9F%E6%80%9D%E7%B6%AD%E7%9A%84%E5%9B%9B%E5%80%8B%E7%99%BC%E5%B1%95%E9%9A%8E%E6%AE%B5/",
+                    "from": "智讀",
+                    "quote": "每個人都會思考，但思考並不會讓你的生活變得美好。\n\n正確的思考才會。",
+                    "author": "楊大輝\nROXAS\n臺灣作家兼說書人",
+                    "id": "2017081612",
+                    "bg": "30",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=Qj7GmeSAxXo",
+                    "from": "",
+                    "quote": "清晰思考需要的勇氣更甚於智力。\n\nClear thinking requires courage, rather than intelligence.",
+                    "author": "湯馬斯薩斯\nThomas Szasz\n美國臨床心理學家",
+                    "id": "2017081613",
+                    "bg": "9",
+                    "bannerid": "@2016053002"
+                }
+            ],
+            "date": "20170816"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94",
+                    "from": "",
+                    "quote": "真正的無知不是知識的缺乏，而是拒絕獲取知識。\n\nTrue ignorance is not the absence of knowledge, but the refusal to acquire it.",
+                    "author": "卡爾·波普爾\nKarl R. Popper\n英國哲學家",
+                    "id": "2017081701",
+                    "bg": "60",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://www.facebook.com/photo.php?fbid=10212847278233406&set=a.10204346909169492.1073741849.1132607838&type=3&theater",
+                    "from": "邋遢頌 In Praise of Messy Lives",
+                    "quote": "也許我的失敗是為了引領我走向更華麗的失敗。\n\nMaybe my failures liberated me toward ever more colorful and flamboyant failures.",
+                    "author": "凱蒂洛菲 Katie Roiphe\n美國散文家",
+                    "id": "2017081702",
+                    "bg": "38",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "下一個家在何方？",
+                    "quote": "房東：\n\n「貧民窟，是好物，\n\n那裡是我的金雞母。」",
+                    "author": "馬修‧戴斯蒙\nMatthew Desmond\n哈佛大學社會學學者",
+                    "id": "2017081703",
+                    "bg": "35",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "https://www.facebook.com/kookisky/posts/2037910922901747",
+                    "from": "",
+                    "quote": "生命或許沒那麼公平，但我們的心靈可以不必那麼卑賤，我們永遠有資格去追求更公平的世界。",
+                    "author": "溫朗東\n港裔台灣人\n相對論 udn debate 執行編輯",
+                    "id": "2017081711",
+                    "bg": "1",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "http://www.ifuun.com/a2017111926522/",
+                    "from": "",
+                    "quote": "我有殘疾，\n\n但我不是殘廢。",
+                    "author": "史蒂夫·亞力克西\nSteve Alexy\n美國腦癱健身教練",
+                    "id": "2017081712",
+                    "bg": "30",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94",
+                    "from": "",
+                    "quote": "嘗試在人間建立天堂，\n\n終究只會創造出地獄。\n\nThe attempt to make heaven on earth invariably produces hell.",
+                    "author": "卡爾·波普爾\nKarl R. Popper\n英國哲學家",
+                    "id": "2017081713",
+                    "bg": "73",
+                    "bannerid": "@2016121401"
+                }
+            ],
+            "date": "20170817"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94",
+                    "from": "",
+                    "quote": "科學必須始於神話，\n\n並伴隨著對神話的批判。\n\nScience must begin with myths, and with the criticism of myths.",
+                    "author": "卡爾·波普爾\nKarl R. Popper\n英國哲學家",
+                    "id": "2017081801",
+                    "bg": "27",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "https://www.facebook.com/photo.php?fbid=10212847278233406&set=a.10204346909169492.1073741849.1132607838&type=3&theater",
+                    "from": "誰還在怕凱蒂洛菲？",
+                    "quote": "好的作家應該能夠激起辯論，提出異議，即便那將會使她付出代價。",
+                    "author": "道恩斯 Jim Downs\n美國歷史學家",
+                    "id": "2017081802",
+                    "bg": "63",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "http://www.ifuun.com/a2017111926522/",
+                    "from": "",
+                    "quote": "醫生們告訴我的父母應該讓我待在家裡，但我每天都去健身房鍛煉。\n\n希望那些醫生們能看見現在的我。",
+                    "author": "史蒂夫·亞力克西\nSteve Alexy\n美國腦癱健身教練",
+                    "id": "2017081803",
+                    "bg": "77",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E6%8F%9A%C2%B7%E9%A6%AC%E7%89%B9%E7%88%BE",
+                    "from": "少年Pi的奇幻漂流 Life of Pi",
+                    "quote": "我們當然有權懷疑。但懷疑歸懷疑，腳步仍然不能停，把懷疑當作人生哲學，就跟選擇不動來當運輸工具一樣，到頭來，你哪裡也去不了。",
+                    "author": "楊·馬泰爾 Yann Martel\n加拿大作家",
+                    "id": "2017081811",
+                    "bg": "76",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E6%8F%9A%C2%B7%E9%A6%AC%E7%89%B9%E7%88%BE",
+                    "from": "少年Pi的奇幻漂流 Life of Pi",
+                    "quote": "人生與自我都不是用來戰勝的，而是用來相處的。",
+                    "author": "楊·馬泰爾 Yann Martel\n加拿大作家",
+                    "id": "2017081812",
+                    "bg": "10",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "http://www.books.com.tw/products/0010722013",
+                    "from": "臺灣史上最有梗的臺灣史",
+                    "quote": "很多人事物到今天都還在發酵，還沒成為歷史。我們就活在50年後的人的歷史裡。",
+                    "author": "黃震南\n活水來冊房藏書主",
+                    "id": "2017081813",
+                    "bg": "33",
+                    "bannerid": "@2016053002"
+                }
+            ],
+            "date": "20170818"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94",
+                    "from": "開放社會及其敵人",
+                    "quote": "也許我是錯而你是對，\n但只有我們一起努力，\n才能更接近真理。\n\nI may be wrong and you may be right, and by an effort, we may get nearer to the truth.",
+                    "author": "卡爾·波普爾\nKarl R. Popper\n英國哲學家",
+                    "id": "2017081901",
+                    "bg": "78",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E6%8F%9A%C2%B7%E9%A6%AC%E7%89%B9%E7%88%BE",
+                    "from": "少年Pi的奇幻漂流 Life of Pi",
+                    "quote": "爸爸在售票亭不遠的牆上用鮮紅色的油漆寫了一句話：『你知道動物園裡最危險的動物是什麼嗎？』然後有一個箭頭指向一扇小布帘。\n\n有許多好奇的遊客急著把布帘扯開，所以布帘的汰換率很高。\n\n布帘後是一面鏡子。",
+                    "author": "楊·馬泰爾 Yann Martel\n加拿大作家",
+                    "id": "2017081902",
+                    "bg": "16",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://m.facebook.com/goodnightpoem/photos/a.177624585760817.1073741828.177554425767833/677932565730014/?type=3&source=57",
+                    "from": "人情",
+                    "quote": "人們常說的那些恩重如\n山\n有一些後來\n就成了土石流",
+                    "author": "蔡仁偉",
+                    "id": "2017081903",
+                    "bg": "23",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "1896－1940",
+                    "quote": "要評斷一個人是否具備第一流的智慧，就是看其有沒有能力在心智中，同時秉有兩種互相對立的概念，而仍能保持正常運作。",
+                    "author": "史考特·費茲傑羅\nScott Fitzgerald\n美國小說家",
+                    "id": "2017081911",
+                    "bg": "64",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=mKlpUKvxIWY",
+                    "from": "一一",
+                    "quote": "我這麼努力 \n嘿，我從早忙到晚 \n你知不知道\n我一點都不快樂\n\n做的都不是\n自己喜歡做的事 \n怎麼會快樂呢？",
+                    "author": "楊德昌\n臺灣導演",
+                    "id": "2017081912",
+                    "bg": "65",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "http://www.taleswithmorals.com/the-dogs-and-the-hides.htm",
+                    "from": "狗與躲在河裡的牛",
+                    "quote": "一群狗餓得發慌，牠們瞧見了躲在河裡的牛群。\n\n因為沒有辦法游過去，牠們決定要把河水喝乾。但是遠在牠們可以靠近牛隻之前，就因為喝了太多河水而把自己給撐死了。\n---\n不要痴人說夢。\nAttempt not impossibilities.",
+                    "author": "伊索寓言 Aesop Fables",
+                    "id": "2017081913",
+                    "bg": "17",
+                    "bannerid": "@2016053002"
+                }
+            ],
+            "date": "20170819"
+        },
+        {
+            "data": [
+                {
+                    "link": "http://portal.myoops.org/graduate_detail.php?id=91",
+                    "from": "2016哈佛畢業演講",
+                    "quote": "解決更多仇恨唯一的方法就是更多人性。我們必須用好奇代替恐懼。\n\n我們必須藉由彼此的聯繫來尋找「我們」，相信我們是同一個部落的成員，對每一個靈魂發揮同理心。",
+                    "author": "史蒂芬·史皮伯\nSteven Allan Spielberg\n美國電影導演、製作人",
+                    "id": "2017082001",
+                    "bg": "74",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "",
+                    "from": "電影：風雲人物",
+                    "quote": "只你還擁有朋友，\n\n你的人生就不是失敗的。",
+                    "author": "天使 Clarence",
+                    "id": "2017082002",
+                    "bg": "16",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://www.facebook.com/louyichin/posts/1118336498225168?pnref=story",
+                    "from": "",
+                    "quote": " 我背上背包，先往外走，\n跟她說 \"一路平安 祝福妳\"\n\n  她一臉感動，說\n\"你也是 也祝福你\"\n\n那時我很想跟她說\n我要是有一個女兒\n我也希望她能像妳一樣勇敢\n一生貪看流動的風景\n能感受孤獨的況味\n在不同的國家旅行\n認識各式各樣的人",
+                    "author": "駱以軍",
+                    "id": "2017082003",
+                    "bg": "65",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "https://money.udn.com/money/story/5599/2569548",
+                    "from": "",
+                    "quote": "法國環境部長余洛宣布，世界第六大經濟體法國將在2040年停售柴油車和汽油車。",
+                    "author": "",
+                    "id": "2017082011",
+                    "bg": "70",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "我學到無論跑步與人生都沒有所謂失敗，只要你繼續前進。\n\nI have learned that there is no failure in running, or in life, as long as you keep moving.",
+                    "author": "Amby Burfoot\n安比‧波爾富\n波士頓馬拉松冠軍",
+                    "id": "2017082012",
+                    "bg": "76",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "http://www.chinatimes.com/newspapers/20160604000781-260116",
+                    "from": "哲學的陪伴與慰藉",
+                    "quote": "我總希望，\n下一代可以更清醒，\n\n不只靠運氣，\n還有哲學教育的機會，\n有邏輯、禮儀培養的機會，\n\n有哲學的陪伴，\n有深刻的生命。",
+                    "author": "楊子葆\n文化部政務次長",
+                    "id": "2017082013",
+                    "bg": "19",
+                    "bannerid": "@2016053002"
+                }
+            ],
+            "date": "20170820"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E8%91%89%E9%9D%92_(%E8%A9%A9%E4%BA%BA)",
+                    "from": "大塊的悲傷",
+                    "quote": "你說　心裡有大塊的悲傷\n那就暫時借給我吧\n我一直沒正經事幹\n最近打算找塊地種點東西\n\n都說種什麼得什麼\n說不定　十年後\n人們會發現\n他們一直缺乏\n新鮮又有機的悲傷",
+                    "author": "葉青  詩人\n下輩子更加決定",
+                    "id": "2017082101",
+                    "bg": "74",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://www.managertoday.com.tw/quotes/view/749",
+                    "from": "2011年 烏托亞島屠殺倖存者",
+                    "quote": "如果一個人可以製造那麼多的仇恨，可以想像，當我們所有人聚在一起時，能產生多少愛。\n\nIf one man can show that much hate, think of how much love we can show\n\nOm én mann kan vise så mye hat, tenk hvor mye kjærlighet vi alle kan vise sammen!",
+                    "author": "絲汀·荷漢\nStine Renate Håheim\n挪威國會議員",
+                    "id": "2017082102",
+                    "bg": "31",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "http://newsblog.chinatimes.com/sow",
+                    "from": "",
+                    "quote": "真正的富裕，\n\n是有時間做自己想做的事。",
+                    "author": "李偉文\n荒野保護協會創辦人",
+                    "id": "2017082103",
+                    "bg": "6",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/zh-tw/%E4%BC%BD%E5%88%A9%E7%95%A5%C2%B7%E4%BC%BD%E5%88%A9%E8%8E%B1",
+                    "from": "1564－1642",
+                    "quote": "追求科學需要特殊的勇敢。",
+                    "author": "伽利略·伽利萊\nGalileo Galilei\n義大利科學家、哲學家",
+                    "id": "2017082111",
+                    "bg": "17",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E6%AF%94%E7%88%BE%C2%B7%E8%8E%AB%E7%91%9E",
+                    "from": "",
+                    "quote": "如果人民欺骗政府，\n他就犯了重罪；\n\n但是如果政府欺骗人民，\n那就只是政治而已。\n\nSo, if we lie to the government, it's a felony. \n\nBut they lie to us, it's politics",
+                    "author": "比爾墨瑞\nBill Murray\n美國演員",
+                    "id": "2017082112",
+                    "bg": "66",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7%E7%90%86%E6%9F%A5%E6%A3%AE",
+                    "from": "1689-1761",
+                    "quote": "愛可以拉一隻大象\n\n穿過鑰匙孔\n\nLove will draw an elephant through a key-hole.",
+                    "author": "塞繆爾·理查森\nSamuel Richardson\n英國作家",
+                    "id": "2017082113",
+                    "bg": "82",
+                    "bannerid": "@2016121401"
+                }
+            ],
+            "date": "20170821"
+        },
+        {
+            "data": [
+                {
+                    "link": "",
+                    "from": "地獄",
+                    "quote": "僅僅因為\n人類無法想像\n某件事件會發生，\n\n不意味著\n它就不會發生。",
+                    "author": "丹·布朗\nDan Brown\n美國作家",
+                    "id": "2017082201",
+                    "bg": "7",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "",
+                    "from": "基度山恩仇記\nLe Comte de Monte-Cristo",
+                    "quote": "上帝給了人們\n有限的力量，\n\n卻給了人們\n無限的欲望。",
+                    "author": "大仲馬\n法國浪漫主義作家\n1802-1870",
+                    "id": "2017082202",
+                    "bg": "8",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "",
+                    "from": "\n1887-1961",
+                    "quote": "在對「科學究竟是什麼」全然無知的前提下，許多人認為科學的任務就是發現新機器，或者是幫助人們發明新機器，以便改善我們的生活條件。\n\n他們會把這些事情留給專家來做，就像讓管道工來修理他們的水管一樣。\n\n如果讓持有這樣觀點的人為我們的孩子選擇學習課程，其結果必然是可悲的。",
+                    "author": "埃爾溫·薛丁格\nErwin Schrödinger\n奧地利量子物理學家",
+                    "id": "2017082203",
+                    "bg": "60",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "http://forgetfulbc.blogspot.com/2016/03/wall.html",
+                    "from": "上週今夜",
+                    "quote": "當你蓋了一道\n\n 30 公尺高的圍牆，\n\n你只是為 31公尺高的梯子\n\n帶來商機。",
+                    "author": "Paul Beban",
+                    "id": "2017082211",
+                    "bg": "62",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=j9RDfv5OAZQ",
+                    "from": "",
+                    "quote": "學生從不在乎你知道多少，\n\n直到他們知道你在乎多少。\n\nStudents don’t care how much you\nknow until they know how much you\ncare.",
+                    "author": "",
+                    "id": "2017082212",
+                    "bg": "36",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "",
+                    "from": "魔戒",
+                    "quote": "真金未必閃亮，\n浪子未必迷途；\n老而彌堅不會凋零，\n深根隱埋不懼嚴霜。\n\n冷灰中熱火甦醒，\n暗影中光明跳盪；\n青鋒斷刃將重鑄，\n無冕者再臨為王。",
+                    "author": "J·R·R·托爾金\nJohn Ronald Reuel Tolkien\n英國作家、詩人、語言學家\n1892－1973",
+                    "id": "2017082213",
+                    "bg": "65",
+                    "bannerid": "@2016100602"
+                }
+            ],
+            "date": "20170822"
+        },
+        {
+            "data": [
+                {
+                    "link": "",
+                    "from": "https://www.facebook.com/cendalirit/photos/a.903237419700494.1073741828.902736833083886/1141114095912824/?type=3&theater",
+                    "quote": "幸福以不幸為養分\n因而燦爛盛開\n\n無論是多麼喜悅的海洋\n不可能沒有\n一滴小小的淚水\n溶化其中",
+                    "author": "谷川俊太郎\nShuntaro Tanikawa\n　　日本當代詩人，劇作家、散文家、翻譯家",
+                    "id": "2017082301",
+                    "bg": "2",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "",
+                    "from": "1835-1910",
+                    "quote": "為了練習，\n\n首先神造了傻子，\n\n然後祂創造了教育部。\n\n\nIn the first place God made idiots. This was for practice. Then He made School Boards.",
+                    "author": "馬克吐溫\nMark Twain \n美國小說家、作家",
+                    "id": "2017082302",
+                    "bg": "39",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=h4KcMTr0VXo",
+                    "from": "X教授與萬磁王的正義論",
+                    "quote": "所以真正的正義與和平，不是消滅差異，不是拿自己的標準壓制別人，而是擁抱差異，讓每個人表現真實的自己。",
+                    "author": "超級歪電影院",
+                    "id": "2017082303",
+                    "bg": "68",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "https://www.inside.com.tw/2017/06/02/daodu-tech-yowurepor",
+                    "from": "知識型自媒體",
+                    "quote": "請「聘用」我，\n\n而不是把我當網紅。",
+                    "author": "周欽華\n科技島讀主筆",
+                    "id": "2017082311",
+                    "bg": "63",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "http://www.imdb.com/title/tt0086567/?ref_=ttqt_qt_tt",
+                    "from": "WarGames",
+                    "quote": "真是個奇怪的遊戲。\n\n唯一可以贏的方法，\n\n就是不要玩。\n\nA strange game. The only winning move is not to play.",
+                    "author": "1983 電影",
+                    "id": "2017082312",
+                    "bg": "65",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "",
+                    "from": "精靈寶鑽",
+                    "quote": "死亡是他們的命運，是伊露維塔所賜的禮物，隨著時間不斷地流逝，連諸神也會羨慕這個禮物。\n\nDeath is their fate, the gift of Ilúvatar, which as time wears even the Powers shall envy.  ",
+                    "author": "J·R·R·托爾金\nJohn Ronald Reuel Tolkien\n英國作家、詩人\n語言學家、大學教授\n1892－1973",
+                    "id": "2017082313",
+                    "bg": "23",
+                    "bannerid": "@2016053003"
+                }
+            ],
+            "date": "20170823"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://www.facebook.com/notes/%E8%91%89%E4%BF%A1%E6%BA%90/%E8%87%A8%E7%B5%82%E5%8D%94%E5%AE%9Aa-protocol-for-dying/10153556546128601",
+                    "from": "臨終協定",
+                    "quote": "每個人都應該認識死亡的意義。構成一個完整的個體的核心之一就是接納自己生命有限的真相。當然，我們要為活下去打拼，然而當它要成為過去的時候，我們就擁抱這個終點吧。",
+                    "author": "Pieter Hintjens \n比利時作家、程式設計師",
+                    "id": "2017082401",
+                    "bg": "23",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "",
+                    "from": "1852-1940",
+                    "quote": "啊，年輕時站在閃閃發光的河畔，相信夢想是件多棒的事！\n\n但在人生過程中奮鬥並在最後說，這個夢是真的，是件更棒的事。",
+                    "author": "愛德溫‧馬爾侃\nEdwin Markham\n美國詩人",
+                    "id": "2017082402",
+                    "bg": "2",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://youtu.be/65Yk_Q4BbCY?t=9m",
+                    "from": "",
+                    "quote": "如果臺灣嘻哈有MVP\n\n我就是饒舌的鄧麗君\n\n你信不信",
+                    "author": "葛仲珊 MISS KO\n中英文饒舌歌手",
+                    "id": "2017082403",
+                    "bg": "38",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "人生是由小的愉快組成，快樂是由那些小的成功所組成，大的成功太不常出現，而你如果不重視這些小的成功，大的成功也不具任何意義。",
+                    "author": "諾曼．李爾\nNorman Lear\n美國電視節目編劇及製作人",
+                    "id": "2017082411",
+                    "bg": "77",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "1844-1924",
+                    "quote": "教導的藝術，是喚醒小孩天生好奇心並在未來滿足它的藝術；\n\n而好奇心本身的鮮活及益處，與內心的滿足及快樂成正比。",
+                    "author": "阿納托爾．法郎士 \nAnatole Francev\n法國作家\n1921年諾貝爾文學獎得主",
+                    "id": "2017082412",
+                    "bg": "37",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E8%B5%AB%E4%BC%AF%E7%89%B9%C2%B7%E6%96%AF%E5%AE%BE%E5%A1%9E",
+                    "from": "1820－1903",
+                    "quote": "必須記住我們學習的時間是有限的。\n\n時間有限，不只由於人生短促，更由於人的紛繁。\n\n我們應該力求把我們所有的時間用去做最有益的事。",
+                    "author": "赫伯特·史賓賽\nHerbert Spencer\n英國哲學家",
+                    "id": "2017082413",
+                    "bg": "11",
+                    "bannerid": "@2015120802"
+                }
+            ],
+            "date": "20170824"
+        },
+        {
+            "data": [
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E8%90%A7%E4%BC%AF%E7%BA%B3",
+                    "from": "1856－1950",
+                    "quote": "犯錯的人生不只比虛晃的人生更令人尊敬，也更有益處。\n\nA life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
+                    "author": "蕭伯納\nGeorge Bernard Shaw\n愛爾蘭劇作家\n1925年諾貝爾文學獎",
+                    "id": "2017082501",
+                    "bg": "34",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "http://www.books.com.tw/products/0010156730",
+                    "from": "哲學的慰藉",
+                    "quote": "不是每一個\n讓我們感覺好的東西\n都對我們有益；\n\n不是每一個\n傷害我們的東西\n就是不好的。",
+                    "author": "艾倫‧狄波頓\nAlain de Botton\n英國當代作家",
+                    "id": "2017082502",
+                    "bg": "72",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "",
+                    "from": "1918-1993",
+                    "quote": "快樂跟愉悅不同，\n\n快樂是有關\n\n奮鬥、堅持和完成。\n\nHappiness is different from pleasure. Happiness has something to do with struggling and enduring and accomplishing.",
+                    "author": "喬治·席翰 George Sheehan\n美國心臟科醫師、慢跑運動員",
+                    "id": "2017082503",
+                    "bg": "66",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "",
+                    "from": "1795 -1881",
+                    "quote": "青春是人生最快樂的時光。\n\n但這種快樂往往完全是因為它充滿著希望，而不是因為得到了什麼或逃避了什麼。",
+                    "author": "托馬斯·克萊爾\nThomas Carlyle\n蘇格蘭歷史學家",
+                    "id": "2017082511",
+                    "bg": "76",
+                    "bannerid": "@2016100602"
+                },
+                {
+                    "link": "",
+                    "from": "1860-1904",
+                    "quote": "一個人如果缺乏比外界的一切影響更高更堅強的東西，那麼只要害一場重傷風，就足以使他失去常態。\n\n使他一看見鳥就認為是貓頭鷹，一聽見聲音就認為是狗叫。\n\n在這樣的時候，他所有的樂觀主義或者悲觀主義，以及因而產生的偉大和渺小的思想，就純粹成了病態，不是別的了。 ",
+                    "author": "安東·帕夫洛維奇·契訶夫\nАнтон Павлович Чехов\n俄國的短篇小說家",
+                    "id": "2017082512",
+                    "bg": "17",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "",
+                    "from": "1854-1900",
+                    "quote": "世界上只有一件事，\n\n比被人議論還要糟糕，\n\n那就是不被議論。",
+                    "author": "奧斯卡．王爾德\nOscar Wilde\n愛爾蘭作家",
+                    "id": "2017082513",
+                    "bg": "63",
+                    "bannerid": "@2016061502"
+                }
+            ],
+            "date": "20170825"
+        },
+        {
+            "data": [
+                {
+                    "link": "",
+                    "from": "黑鐵時代",
+                    "quote": "深思熟慮的結果，\n\n往往就是說不清楚。",
+                    "author": "王小波\n中國學者、作家\n1952-1997",
+                    "id": "2017082601",
+                    "bg": "73",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E5%9F%B9%E6%A0%B9",
+                    "from": "1561-1626",
+                    "quote": "知識在書本之中，\n\n運用知識的智慧\n\n卻在書本之外。",
+                    "author": "法蘭西斯·培根\nFrancis Bacon\n英國哲學家、政治家",
+                    "id": "2017082602",
+                    "bg": "63",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "",
+                    "from": "箴言",
+                    "quote": "敗壞之先，人心驕傲；\n\n尊榮以前，必有謙卑。",
+                    "author": "聖經",
+                    "id": "2017082603",
+                    "bg": "23",
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2",
+                    "from": "1952-1997",
+                    "quote": "我自己當然希望\n變得更善良，\n\n但這種善良\n應該是我變得更聰明造成的，\n而不是相反。",
+                    "author": "王小波\n中國學者、作家",
+                    "id": "2017082611",
+                    "bg": "8",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E9%83%91%E6%B8%8A%E6%B4%81%E7%AB%A5%E8%AF%9D%E5%85%A8%E9%9B%86",
+                    "from": "鄭淵潔童話全集",
+                    "quote": "吝嗇的真實含義\n\n不是捨不得花自己的錢，\n\n而是捨得花別人的錢。",
+                    "author": "鄭淵潔\n中國當代作家",
+                    "id": "2017082612",
+                    "bg": "70",
+                    "bannerid": "@2016121401"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=AAzVYa3L31M",
+                    "from": "刺激1995 The Shawshank Redemption",
+                    "quote": "有一種鳥\n\n是永遠也關不住的，\n\n因為它的每片羽翼上\n\n都沾滿了自由的光輝！",
+                    "author": "電影",
+                    "id": "2017082613",
+                    "bg": "17",
+                    "bannerid": "@2016100602"
+                }
+            ],
+            "date": "20170826"
         }
     ]
 }
