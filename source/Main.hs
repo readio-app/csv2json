@@ -62,9 +62,9 @@ type CsvData = [CsvRow]
 data CsvRow = CsvRow
     { cDate       :: Date
     , cTime       :: Time
-    , cContent    :: Text
-    , cAuthor     :: Text
-    , cSource     :: Text
+    , cContent    :: Text -- need to replace variant characters
+    , cAuthor     :: Text -- need to replace variant characters
+    , cSource     :: Text -- need to replace variant characters
     , cLink       :: Text
     , cBackground :: Text
     , cBanner     :: Text
