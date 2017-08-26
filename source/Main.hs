@@ -70,7 +70,7 @@ data CsvRow = CsvRow
     , cHasVoice   :: HasVoice
     } deriving (Generic, Show)
 
-data Date = Date Text deriving (Eq, Show)
+newtype Date = Date Text deriving (Eq, Show)
 
 data Time = Morning | Evening deriving (Eq, Show)
 
