@@ -37,11 +37,12 @@ makeDay rows = Day (cDate $ head rows) $
 makeHalfDay :: Time -> [CsvRow] -> [Quotation]
 makeHalfDay t rs = f <$> zip is ss
     where
-        is = [1 .. 9]
+        is = [1 .. 9] :: [Integer]
         ss = filter ((==) t . cTime) rs
         u = case t of
             Morning -> "0"
             Evening -> "1"
+        f :: (Integer, CsvRow) -> Quotation
         f (i, r) = Quotation
             { qId         = unpackDate (cDate r) <> u <> pack (show i)
             , qContent    = cContent    r
