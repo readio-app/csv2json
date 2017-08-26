@@ -58,13 +58,6 @@ makeHalfDay t rs = f <$> zip is ss
 
 type CsvData = [CsvRow]
 
-data Time = Morning | Evening deriving (Eq, Show)
-
-data Date = Date Text deriving (Eq, Show)
-
-unpackDate :: Date -> Text
-unpackDate (Date d) = d
-
 data CsvRow = CsvRow
     { cDate       :: Date
     , cTime       :: Time
@@ -76,6 +69,13 @@ data CsvRow = CsvRow
     , cBanner     :: Text
     , cHasVoice   :: Bool
     } deriving (Generic, Show)
+
+data Date = Date Text deriving (Eq, Show)
+
+data Time = Morning | Evening deriving (Eq, Show)
+
+unpackDate :: Date -> Text
+unpackDate (Date d) = d
 
 instance Csv.FromRecord CsvRow
 
