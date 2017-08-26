@@ -1,4 +1,5 @@
 {-# LANGUAGE DeriveGeneric     #-}
+{-# LANGUAGE LambdaCase        #-}
 {-# LANGUAGE OverloadedStrings #-}
 
 module Main where
@@ -97,10 +98,11 @@ instance Csv.FromField Time where
         | otherwise = mzero
 
 instance Csv.FromField HasVoice where
-    parseField "TRUE"  = pure $ HasVoice True
-    parseField "FALSE" = pure $ HasVoice False
-    parseField ""      = pure $ HasVoice False
-    parseField _       = error "Unexpected value in voice column."
+    parseField = pure . HasVoice <$> \case
+        "TRUE"  -> True
+        "FALSE" -> False
+        ""      -> False
+        _       -> error "Unexpected value in voice column."
 
 -- JSON data types
 
