@@ -3,25 +3,24 @@
 
 module Main where
 
-import Control.Monad (mzero, when)
-import Data.Aeson
-import Data.Aeson.Encode.Pretty (encodePretty)
-import Data.Function (on)
-import Data.List (filter, groupBy)
-import Data.Monoid ((<>))
-import Data.Text (Text, append, pack)
-import Data.Text.Encoding (decodeUtf8)
-import GHC.Generics (Generic)
-import Prelude hiding (id)
+import           Control.Monad              (mzero)
+import           Data.Aeson
+import           Data.Aeson.Encode.Pretty   (encodePretty)
+import           Data.Function              (on)
+import           Data.List                  (filter, groupBy)
+import           Data.Monoid                ((<>))
+import           Data.Text                  (Text, pack)
+import           Data.Text.Encoding         (decodeUtf8)
+import           GHC.Generics               (Generic)
+import           Prelude                    hiding (id)
 
-import qualified Data.ByteString as B
+import qualified Data.ByteString            as B
 import qualified Data.ByteString.Lazy.Char8 as BL
-import qualified Data.Csv as Csv
-import qualified Data.Text as T
-import qualified Data.Text.IO as T
-import qualified Data.Vector as V
-import qualified System.Environment as E
-import qualified System.Exit as E
+import qualified Data.Csv                   as Csv
+import qualified Data.Text                  as T
+import qualified Data.Vector                as V
+import qualified System.Environment         as E
+import qualified System.Exit                as E
 
 csvToJson :: CsvData -> JsonData
 csvToJson = makeDays
