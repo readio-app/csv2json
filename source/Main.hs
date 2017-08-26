@@ -143,6 +143,7 @@ instance ToJSON Quotation where
 
 -- Command line interface
 
+usage :: String
 usage = "usage: csv2json <path-to-csv-file> <path-to-json-file>"
 
 main :: IO ()
@@ -152,6 +153,7 @@ main = do
         [c, j] -> transformCsvToJson c j
         _      -> exitWithUsageError
 
+transformCsvToJson :: FilePath -> FilePath -> IO ()
 transformCsvToJson csvFilePath jsonFilePath = do
     csvData <- BL.readFile csvFilePath
     case Csv.decode Csv.HasHeader csvData of
@@ -159,6 +161,7 @@ transformCsvToJson csvFilePath jsonFilePath = do
         Right r -> BL.writeFile jsonFilePath $
             encodePretty $ csvToJson $ V.toList r
 
+exitWithUsageError :: IO ()
 exitWithUsageError = do
     putStrLn usage
     E.exitWith $ E.ExitFailure 1
