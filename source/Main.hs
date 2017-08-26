@@ -1,27 +1,27 @@
 {-# LANGUAGE DeriveGeneric     #-}
+{-# LANGUAGE LambdaCase        #-}
 {-# LANGUAGE OverloadedStrings #-}
 
 module Main where
 
-import Control.Monad (mzero, when)
-import Data.Aeson
-import Data.Aeson.Encode.Pretty (encodePretty)
-import Data.Function (on)
-import Data.List (filter, groupBy)
-import Data.Monoid ((<>))
-import Data.Text (Text, append, pack)
-import Data.Text.Encoding (decodeUtf8)
-import GHC.Generics (Generic)
-import Prelude hiding (id)
+import           Control.Monad              (mzero)
+import           Data.Aeson
+import           Data.Aeson.Encode.Pretty   (encodePretty)
+import           Data.Function              (on)
+import           Data.List                  (filter, groupBy)
+import           Data.Monoid                ((<>))
+import           Data.Text                  (Text, pack)
+import           Data.Text.Encoding         (decodeUtf8)
+import           GHC.Generics               (Generic)
+import           Prelude                    hiding (id)
 
-import qualified Data.ByteString as B
+import qualified Data.ByteString            as B
 import qualified Data.ByteString.Lazy.Char8 as BL
-import qualified Data.Csv as Csv
-import qualified Data.Text as T
-import qualified Data.Text.IO as T
-import qualified Data.Vector as V
-import qualified System.Environment as E
-import qualified System.Exit as E
+import qualified Data.Csv                   as Csv
+import qualified Data.Text                  as T
+import qualified Data.Vector                as V
+import qualified System.Environment         as E
+import qualified System.Exit                as E
 
 csvToJson :: CsvData -> JsonData
 csvToJson = makeDays
@@ -38,11 +38,12 @@ makeDay rows = Day (cDate $ head rows) $
 makeHalfDay :: Time -> [CsvRow] -> [Quotation]
 makeHalfDay t rs = f <$> zip is ss
     where
-        is = [1 .. 9]
+        is = [1 .. 9] :: [Integer]
         ss = filter ((==) t . cTime) rs
         u = case t of
             Morning -> "0"
             Evening -> "1"
+        f :: (Integer, CsvRow) -> Quotation
         f (i, r) = Quotation
             { qId         = unpackDate (cDate r) <> u <> pack (show i)
             , qContent    = cContent    r
@@ -58,13 +59,6 @@ makeHalfDay t rs = f <$> zip is ss
 
 type CsvData = [CsvRow]
 
-data Time = Morning | Evening deriving (Eq, Show)
-
-data Date = Date Text deriving (Eq, Show)
-
-unpackDate :: Date -> Text
-unpackDate (Date d) = d
-
 data CsvRow = CsvRow
     { cDate       :: Date
     , cTime       :: Time
@@ -74,16 +68,22 @@ data CsvRow = CsvRow
     , cLink       :: Text
     , cBackground :: Text
     , cBanner     :: Text
-    , cHasVoice   :: Bool
+    , cHasVoice   :: HasVoice
     } deriving (Generic, Show)
 
-instance Csv.FromRecord CsvRow
+newtype Date = Date Text deriving (Eq, Show)
 
-instance Csv.FromField Bool where
-    parseField "TRUE"  = pure True
-    parseField "FALSE" = pure False
-    parseField ""      = pure False
-    parseField _       = error "Unexpected value in voice column."
+data Time = Morning | Evening deriving (Eq, Show)
+
+newtype HasVoice = HasVoice Bool deriving (Eq, Show)
+
+unpackDate :: Date -> Text
+unpackDate (Date d) = d
+
+hasVoice :: HasVoice -> Bool
+hasVoice (HasVoice x) = x
+
+instance Csv.FromRecord CsvRow
 
 instance Csv.FromField Date where
     parseField x =
@@ -96,6 +96,13 @@ instance Csv.FromField Time where
         | x == "m"  = pure Morning
         | x == "e"  = pure Evening
         | otherwise = mzero
+
+instance Csv.FromField HasVoice where
+    parseField = pure . HasVoice <$> \case
+        "TRUE"  -> True
+        "FALSE" -> False
+        ""      -> False
+        _       -> error "Unexpected value in voice column."
 
 -- JSON data types
 
@@ -113,7 +120,7 @@ data Quotation = Quotation
     , qLink       :: Text
     , qBackground :: Text
     , qBanner     :: Text
-    , qHasVoice   :: Bool
+    , qHasVoice   :: HasVoice
     } deriving (Generic, Show)
 
 instance ToJSON Days where
@@ -138,12 +145,13 @@ instance ToJSON Quotation where
                then [ {- don't output empty values -} ]
                else [ "bannerid" .= ("@" <> qBanner q) ])
         <>
-            (if qHasVoice q
+            (if hasVoice (qHasVoice q)
                then [ "voice" .= True ]
                else [ {- don't output false values -} ])
 
 -- Command line interface
 
+usage :: String
 usage = "usage: csv2json <path-to-csv-file> <path-to-json-file>"
 
 main :: IO ()
@@ -153,6 +161,7 @@ main = do
         [c, j] -> transformCsvToJson c j
         _      -> exitWithUsageError
 
+transformCsvToJson :: FilePath -> FilePath -> IO ()
 transformCsvToJson csvFilePath jsonFilePath = do
     csvData <- BL.readFile csvFilePath
     case Csv.decode Csv.HasHeader csvData of
@@ -160,6 +169,7 @@ transformCsvToJson csvFilePath jsonFilePath = do
         Right r -> BL.writeFile jsonFilePath $
             encodePretty $ csvToJson $ V.toList r
 
+exitWithUsageError :: IO ()
 exitWithUsageError = do
     putStrLn usage
     E.exitWith $ E.ExitFailure 1
