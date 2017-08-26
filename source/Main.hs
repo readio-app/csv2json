@@ -67,23 +67,22 @@ data CsvRow = CsvRow
     , cLink       :: Text
     , cBackground :: Text
     , cBanner     :: Text
-    , cHasVoice   :: Bool
+    , cHasVoice   :: HasVoice
     } deriving (Generic, Show)
 
 data Date = Date Text deriving (Eq, Show)
 
 data Time = Morning | Evening deriving (Eq, Show)
 
+newtype HasVoice = HasVoice Bool deriving (Eq, Show)
+
 unpackDate :: Date -> Text
 unpackDate (Date d) = d
 
-instance Csv.FromRecord CsvRow
+hasVoice :: HasVoice -> Bool
+hasVoice (HasVoice x) = x
 
-instance Csv.FromField Bool where
-    parseField "TRUE"  = pure True
-    parseField "FALSE" = pure False
-    parseField ""      = pure False
-    parseField _       = error "Unexpected value in voice column."
+instance Csv.FromRecord CsvRow
 
 instance Csv.FromField Date where
     parseField x =
@@ -96,6 +95,12 @@ instance Csv.FromField Time where
         | x == "m"  = pure Morning
         | x == "e"  = pure Evening
         | otherwise = mzero
+
+instance Csv.FromField HasVoice where
+    parseField "TRUE"  = pure $ HasVoice True
+    parseField "FALSE" = pure $ HasVoice False
+    parseField ""      = pure $ HasVoice False
+    parseField _       = error "Unexpected value in voice column."
 
 -- JSON data types
 
@@ -113,7 +118,7 @@ data Quotation = Quotation
     , qLink       :: Text
     , qBackground :: Text
     , qBanner     :: Text
-    , qHasVoice   :: Bool
+    , qHasVoice   :: HasVoice
     } deriving (Generic, Show)
 
 instance ToJSON Days where
@@ -138,7 +143,7 @@ instance ToJSON Quotation where
                then [ {- don't output empty values -} ]
                else [ "bannerid" .= ("@" <> qBanner q) ])
         <>
-            (if qHasVoice q
+            (if hasVoice (qHasVoice q)
                then [ "voice" .= True ]
                else [ {- don't output false values -} ])
 
