@@ -14,6 +14,7 @@ import           Data.Text                  (Text, pack)
 import           Data.Text.Encoding         (decodeUtf8)
 import           GHC.Generics               (Generic)
 import           Prelude                    hiding (id)
+import           VariantCharacters          (replaceVariantCharacters)
 
 import qualified Data.ByteString            as B
 import qualified Data.ByteString.Lazy.Char8 as BL
@@ -134,12 +135,12 @@ instance ToJSON Day where
 
 instance ToJSON Quotation where
     toJSON q = object $
-            [ "id"       .= qId         q
-            , "quote"    .= qContent    q
-            , "author"   .= qAuthor     q
-            , "from"     .= qSource     q
-            , "link"     .= qLink       q
-            , "bg"       .= qBackground q ]
+            [ "id"       .=                           qId         q
+            , "quote"    .= replaceVariantCharacters (qContent    q)
+            , "author"   .= replaceVariantCharacters (qAuthor     q)
+            , "from"     .= replaceVariantCharacters (qSource     q)
+            , "link"     .=                           qLink       q
+            , "bg"       .=                           qBackground q ]
         <>
             (if T.null $ qBanner q
                then [ {- don't output empty values -} ]
