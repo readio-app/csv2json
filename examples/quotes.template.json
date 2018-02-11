@@ -1,0 +1,232 @@
+{
+"news2":
+[
+{"id":"event_meetup","title":"最新活動：跨文化聚會","value":"20160517","link":"https://www.facebook.com/groups/396802377136588/"},
+{"id":"event_public_welfare","title":"小孩總統的精神喊話","value":"201600808","link":"https://www.youtube.com/watch?v=tTKFwNS1ZTo"},
+{"id":"event_special","title":"這是水","value":"20160808","link":"https://www.youtube.com/watch?v=nh5bRJUBdh4"},
+{"id":"brand_story","title":"街頭商店","value":"20160808","link":" http://www.wowlavie.com/life_unit.php?article_id=AE1600054&c_id=M04I04"}
+],
+"extbg":
+[
+{"folder":"http://www.readio.url.tw/Readlife/extbg", "start":"60", "end":"120"}
+],
+
+"bginfo":
+[
+{"id":"80", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"81", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"82", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"83", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"84", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"85", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"86", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"87", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"88", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"89", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"90", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"91", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"92", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"93", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"94", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"},
+{"id":"95", "text":"圖：Cloudie", "link":"http://www.cloudie.gallery"}
+],
+
+"banners":
+[
+{"id":"2015120801","icon":"http://www.readio.url.tw/icon/TFT.png","link":"https://www.youtube.com/watch?v=n38D7DCDtbk"},
+{"id":"2015120802","icon":"http://www.readio.url.tw/icon/sheqiliu.png","link":"https://www.youtube.com/watch?v=EQgLrgamsW8"},
+{"id":"2016053001","icon":"http://www.readio.url.tw/icon/TED.png","link":"https://tw.voicetube.com/videos/7365","promotion":"http://www.readio.url.tw/icon/TEDbanner.png"},
+{"id":"2016053002","icon":"http://www.readio.url.tw/icon/pinxuetang.png","link":"http://tedxtaipei.com/talks/2015-maurice-huang/"},
+{"id":"2016053003","icon":"http://www.readio.url.tw/icon/lanquecha.png","link":"https://www.youtube.com/watch?v=a5MC-n3wx7A"},
+{"id":"2016061502","icon":"http://www.readio.url.tw/icon/migrantspark.png","link":"http://www.sea.taipei/about-us/%e9%97%9c%e6%96%bc%e6%9b%b8%e5%ba%97/"},
+{"id":"@2016100601","icon":"http://www.readio.url.tw/icon/huck.png","link":"https://www.youtube.com/watch?v=lTKeKVudC-c","promotion":"http://www.readio.url.tw/icon/huckbanner.png"},
+{"id":"2016100602","icon":"http://www.readio.url.tw/icon/rollout.PNG","link":"https://www.youtube.com/watch?v=BXpoCfwZpN0"},
+{"id":"2016121401","icon":"http://www.readio.url.tw/icon/cloudie.png","link":"https://www.facebook.com/pg/CloudOnTheRoad/videos/?ref=page_internal"},
+
+{"id":"@2016082401","icon":"http://www.readio.url.tw/icon/ic_logo.png","link":"https://www.facebook.com/readio.cc/"},
+
+
+{"id":"2016011601","icon":"http://www.readio.url.tw/icon/readioblue.png","link":"https://www.facebook.com/readio.cc/"},
+{"id":"2016011602","icon":"http://www.readio.url.tw/icon/readiolightblue.png","link":"https://www.facebook.com/readio.cc/"}
+],
+
+
+"selected_quotes":
+[
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "執迷於生氣，\n就好像自己喝著毒藥，\n卻期待對方死掉。\n\nHold on to anger is like drinking poison and expecting the other person to die.",
+                    "author": "",
+                    "id": "2016041615",
+                    "bg": "34"
+                },
+                {
+                    "link": "",
+                    "from": "https://www.facebook.com/NeEnergy",
+                    "quote": "如果你發現自己\n\n累得跟狗一樣\n\n那一定是天大的誤會\n\n因為狗都沒你這麼累",
+                    "author": "每天來點負能量",
+                    "id": "2016031013",
+                    "bg": "36",
+                    "bannerid": "@2015120802"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=guuTn0RpVtU",
+                    "from": "1937－2008",
+                    "quote": "在每個憤世嫉俗的人心裡，\n\n都有一個失望的理想主義者。\n\nInside every cynical person, there is a disappointed idealist.",
+                    "author": "喬治卡林\nGeorge Carlin\n美國獨角喜劇演員\n五座葛萊美獎得主",
+                    "id": "2016081014",
+                    "bg": "25",
+                    "voice": true,
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=gg6uFCS9HK0",
+                    "from": "《李嘉誠一分鐘自介》",
+                    "quote": "雞蛋，\n\n從外打破是食物，\n\n從內打破是生命。",
+                    "author": "李嘉誠 （爵士）\n大紫荊勳賢\n香港企業家\n長江集團創立人",
+                    "id": "2015120212",
+                    "bg": "17",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=SfyJ3tSicM4",
+                    "from": "三個傻瓜\n3 Idiots",
+                    "quote": "即使是馬戲團的獅子，\n也會因為怕被鞭打，\n而學會坐在椅子上，\n\n但你們會說：\n這獅子是「訓練得好」，\n而非「教育得好」。",
+                    "author": "印度電影",
+                    "id": "2016011901",
+                    "bg": "17",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "https://edu.taiwanbar.cc/",
+                    "from": "大抓週計劃",
+                    "quote": "將教育從「給孩子魚吃，不如給孩子魚竿」扭轉成「給孩子魚竿，不如讓孩子覺得魚很好吃」。\n\n從「灌輸知識」到「引起興趣」，真正點燃孩子心中的求知慾，進而自動自發地學習相關知識與資訊。",
+                    "author": "臺灣吧\nTaiwan Bar",
+                    "id": "2016071503",
+                    "bg": "6",
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "http://www.books.com.tw/products/0010498640",
+                    "from": "雪球：巴菲特傳",
+                    "quote": "巴菲特合夥人查理孟格\n年輕時當律師，\n時薪20美元。\n\n他想『誰是我最珍貴的客戶？』\n\n他的答案是自己。\n於是他決定當自己的客戶，\n也為其他人工作，\n每天清早賣給自己一個小時。",
+                    "author": "艾莉斯．舒德  \nAlice Schroeder\n曾任摩根士丹利董事總經理",
+                    "id": "2016021202",
+                    "bg": "27",
+                    "bannerid": "@2016053001"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "當有人跟你說：\n\n「你不可能做到」\n\n他們其實只是在跟自己說：\n\n「我不可能做到」",
+                    "author": "Sean Stephenson",
+                    "id": "2015122903",
+                    "bg": "13",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=t4gNpnM8r4g",
+                    "from": "1874-1965",
+                    "quote": "如果你對每隻向你吠的狗，\n都停下來扔石頭，\n你永遠到不了目的地。\n\nYou will never reach your destination if you stop and throw stones at every dog that barks.",
+                    "author": "溫斯頓．邱吉爾\nWinston Churchill\n前英國首相",
+                    "id": "2016073002",
+                    "bg": "25"
+                },
+                {
+                    "link": "http://tedxtaipei.com/articles/maurice-huang/",
+                    "from": "",
+                    "quote": "生命和世界是一本巨大的書，\n\n讀它、學習它，\n\n把自己的故事寫到裡面… … \n\n這就是終極的閱讀。",
+                    "author": "黃國珍\n品學堂創辦人",
+                    "id": "2015122201",
+                    "bg": "0",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=ZJBSwRua9-8",
+                    "from": "六輕紀錄片：天堂",
+                    "quote": "我們的島嶼\n就是一個生態系\n面對環境的問題\n\n此刻\n已是一個\n沒有旁觀者的時代",
+                    "author": "林家安\n臺灣導演",
+                    "id": "2015122915",
+                    "bg": "14",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "http://1.bp.blogspot.com/-eL7a_3XOjqY/UchqdpH4PfI/AAAAAAAAAKM/Vow0Ccfh4wQ/s1600/bernard+shaw+gravestone.png",
+                    "from": "1856-1950",
+                    "quote": "我就知道，\n\n如果我活得夠久，\n\n這種事一定會發生。\n\nI knew if I stayed around long enough, something like this would happen.",
+                    "author": "《墓誌銘》\n蕭伯納\nGeorge Bernard Shaw\n英國劇作家",
+                    "id": "2016070703",
+                    "bg": "8"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "溝通最重要的\n\n是去傾聽對方\n\n沒有說出口的部分\n\nThe most important thing in communication is to hear what isn't being said.",
+                    "author": "彼得杜拉克\nPeter Ferdinand Drucker\n奧地利裔美國籍管理顧問",
+                    "id": "2016022404",
+                    "bg": "34",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=veYR3ZC9wMQ",
+                    "from": "死亡詩社\nDead Poets Society ",
+                    "quote": "Carpe Diem. \nSeize the day, boys. \nMake your lives extraordinary.\n\n抓住今天。\n\n把握時機，孩子們！\n\n活出非凡的人生。",
+                    "author": "基頓老師\nMr. Keating\n（羅賓威廉斯飾）\n（ Robin Williams）",
+                    "id": "2016081205",
+                    "bg": "14",
+                    "voice": true,
+                    "bannerid": "@2015120801"
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "蚜蟲吃青草\n\n銹吃鐵\n\n虛偽吃靈魂",
+                    "author": "安東·帕夫洛維奇·契訶夫\nАнтон Павлович Чехов\n俄國的短篇小說家\n1860-1904",
+                    "id": "2016061614",
+                    "bg": "30",
+                    "bannerid": "@2016053002"
+                },
+                {
+                    "link": "https://www.facebook.com/1717975601771031/videos/1741099229466311/",
+                    "from": "1737-1809",
+                    "quote": "世界就是我的國家，\n全人類都是我的同胞，\n行善是我的信仰。\n\nThe World is my country, all mankind are my brethren, and to do good is my religion.",
+                    "author": "湯瑪士潘恩\nThomas Paine\n美國開國元勛\n英裔美國思想家、\n作家、政治家",
+                    "id": "2016082515",
+                    "bg": "19",
+                    "voice": true,
+                    "bannerid": "@2016061502"
+                },
+                {
+                    "link": "https://zh.wikipedia.org/wiki/%E4%BC%AF%E7%89%B9%E5%85%B0%C2%B7%E7%BD%97%E7%B4%A0",
+                    "from": "",
+                    "quote": "這世界的麻煩就是：\n蠢人總是自以為是，\n而智者總是有所顧忌。\n\nThe trouble with the world is that the stupid are cocksure while the intelligent are full of doubt.",
+                    "author": "Bertrand Russell\n英國哲學家、數學家\n諾貝爾文學獎得主\n1872-1970",
+                    "id": "2016081302",
+                    "bg": "12",
+                    "voice": true
+                },
+                {
+                    "link": "",
+                    "from": "",
+                    "quote": "圓規之所以能畫圓，\n是因為心定、腳動；\n\n人之所以不能圓夢，\n是因為心不定、腳不動。",
+                    "author": "",
+                    "id": "2016030703",
+                    "bg": "9",
+                    "bannerid": "@2016053003"
+                },
+                {
+                    "link": "https://www.youtube.com/watch?v=NRwtNVqgO3E",
+                    "from": "",
+                    "quote": "\n平靜的海練不出好水手。\n\nSmooth seas don't make good sailors.",
+                    "author": "Neck Deep\n英國龐克樂團",
+                    "id": "2016070913",
+                    "bg": "4",
+                    "bannerid": "@2016061502"
+                }
+    ],
+
+
+REPLACE-ME
+
+}
