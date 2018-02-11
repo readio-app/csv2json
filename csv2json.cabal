@@ -23,6 +23,7 @@ executable csv2json
         cassava           >= 0.4.5.0  && < 0.5,
         containers        >= 0.5.7.1  && < 1.0,
         file-embed        >= 0.0.10   && < 1.0,
+        stringsearch      >= 0.3.6.6  && < 1.0,
         th-lift-instances >= 0.1.11   && < 1.0,
         text              >= 1.2.2.1  && < 2.0,
         vector            >= 0.11.0.0 && < 1.0,

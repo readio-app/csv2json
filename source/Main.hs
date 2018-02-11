@@ -16,13 +16,15 @@ import           GHC.Generics               (Generic)
 import           Prelude                    hiding (id)
 import           VariantCharacters          (replaceVariantCharacters)
 
-import qualified Data.ByteString            as B
-import qualified Data.ByteString.Lazy.Char8 as BL
-import qualified Data.Csv                   as Csv
-import qualified Data.Text                  as T
-import qualified Data.Vector                as V
-import qualified System.Environment         as E
-import qualified System.Exit                as E
+import qualified Data.ByteString             as B
+import qualified Data.ByteString.Char8       as BC8
+import qualified Data.ByteString.Lazy.Char8  as BL
+import qualified Data.ByteString.Lazy.Search as BLS
+import qualified Data.Csv                    as Csv
+import qualified Data.Text                   as T
+import qualified Data.Vector                 as V
+import qualified System.Environment          as E
+import qualified System.Exit                 as E
 
 csvToJson :: CsvData -> JsonData
 csvToJson = makeDays
@@ -153,22 +155,29 @@ instance ToJSON Quotation where
 -- Command line interface
 
 usage :: String
-usage = "usage: csv2json <path-to-csv-file> <path-to-json-file>"
+usage = "usage: csv2json <template-json-file> <string-to-be-replaced> <input-csv-file> <output-json-file>"
 
 main :: IO ()
 main = do
     arguments <- E.getArgs
     case arguments of
-        [c, j] -> transformCsvToJson c j
-        _      -> exitWithUsageError
+        [t, s, c, j] -> transformCsvToJson t s c j
+        _            -> exitWithUsageError
 
-transformCsvToJson :: FilePath -> FilePath -> IO ()
-transformCsvToJson csvFilePath jsonFilePath = do
+transformCsvToJson :: FilePath -> String -> FilePath -> FilePath -> IO ()
+transformCsvToJson templateJsonFilePath stringToBeReplaced csvFilePath jsonFilePath = do
+    templateJson <- BL.readFile templateJsonFilePath
     csvData <- BL.readFile csvFilePath
     case Csv.decode Csv.HasHeader csvData of
         Left  e -> putStrLn e
-        Right r -> BL.writeFile jsonFilePath $
-            encodePretty $ csvToJson $ V.toList r
+        Right r -> BL.writeFile jsonFilePath
+            (BLS.replace
+                (BC8.pack stringToBeReplaced)
+                -- This is a horribly inefficient hack, but we don't
+                -- care, as these files are generally quite small.
+                (BL.reverse $ BL.drop 1 $ BL.reverse $ BL.drop 1
+                    $ encodePretty $ csvToJson $ V.toList r)
+            templateJson)
 
 exitWithUsageError :: IO ()
 exitWithUsageError = do
