@@ -109,7 +109,7 @@ instance Csv.FromField HasVoice where
 
 type JsonData = Days
 
-data Days = Days [Day] deriving (Generic, Show)
+newtype Days = Days [Day] deriving (Generic, Show)
 
 data Day = Day Date [Quotation] deriving (Generic, Show)
 
